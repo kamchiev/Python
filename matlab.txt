@@ -1,0 +1,20 @@
+1 Least square method ==> only for full rank matrix
+A = [ ...]
+b = [...]
+rk = rank(A)
+[Q,R] = qr(A)
+Rt = R(1:rk,1:rk)
+c = Q'*b
+x_star = Rt/c1 (solution of the matrix)
+
+2 LU
+3 QR
+4 Power method
+5 Inverse power method
+6 USV
+7. Chebyshev-Lobatto
+8.Cholenskiy (for symmetric and positive definite matrices; returns upper triangular matrix)
+R=chol(A)
+y=R'\b
+x=R\y
+
