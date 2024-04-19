@@ -1,0 +1,602 @@
+[
+ {
+  "teach_code": "00000",
+  "teach_name": "Milo",
+  "teach_surname": "Porcinai",
+  "teach_email": "porcinai@large.it"
+ },
+ {
+  "teach_code": "00001",
+  "teach_name": "Simone",
+  "teach_surname": "Ferone",
+  "teach_email": "ferone@large.it"
+ },
+ {
+  "teach_code": "00002",
+  "teach_name": "Carmine",
+  "teach_surname": "Ferri",
+  "teach_email": "ferri@large.it"
+ },
+ {
+  "teach_code": "00003",
+  "teach_name": "David Andrei",
+  "teach_surname": "De Clauzade De Mazieux",
+  "teach_email": "declauzadedemazieux@large.it"
+ },
+ {
+  "teach_code": "00004",
+  "teach_name": "Kristian",
+  "teach_surname": "Schillaci",
+  "teach_email": "schillaci@large.it"
+ },
+ {
+  "teach_code": "00005",
+  "teach_name": "Flora",
+  "teach_surname": "Bogani",
+  "teach_email": "bogani@large.it"
+ },
+ {
+  "teach_code": "00006",
+  "teach_name": "Massimiliano",
+  "teach_surname": "Vulpio",
+  "teach_email": "vulpio@large.it"
+ },
+ {
+  "teach_code": "00007",
+  "teach_name": "Mirco",
+  "teach_surname": "Minucci",
+  "teach_email": "minucci@large.it"
+ },
+ {
+  "teach_code": "00008",
+  "teach_name": "Francesco Maria",
+  "teach_surname": "Matulli",
+  "teach_email": "matulli@large.it"
+ },
+ {
+  "teach_code": "00009",
+  "teach_name": "Tomas",
+  "teach_surname": "Balis",
+  "teach_email": "balis@large.it"
+ },
+ {
+  "teach_code": "00010",
+  "teach_name": "Mattias",
+  "teach_surname": "Evans",
+  "teach_email": "evans@large.it"
+ },
+ {
+  "teach_code": "00011",
+  "teach_name": "Carlos",
+  "teach_surname": "Oliverio",
+  "teach_email": "oliverio@large.it"
+ },
+ {
+  "teach_code": "00012",
+  "teach_name": "Roberta",
+  "teach_surname": "Salazar",
+  "teach_email": "salazar@large.it"
+ },
+ {
+  "teach_code": "00013",
+  "teach_name": "Rocco",
+  "teach_surname": "Bagagli",
+  "teach_email": "bagagli@large.it"
+ },
+ {
+  "teach_code": "00014",
+  "teach_name": "Rayan",
+  "teach_surname": "Amabile",
+  "teach_email": "amabile@large.it"
+ },
+ {
+  "teach_code": "00015",
+  "teach_name": "Emma Maria",
+  "teach_surname": "De Sivo",
+  "teach_email": "desivo@large.it"
+ },
+ {
+  "teach_code": "00016",
+  "teach_name": "Aniello",
+  "teach_surname": "Giuseppini",
+  "teach_email": "giuseppini@large.it"
+ },
+ {
+  "teach_code": "00017",
+  "teach_name": "Antonio Pio",
+  "teach_surname": "Demontis",
+  "teach_email": "demontis@large.it"
+ },
+ {
+  "teach_code": "00018",
+  "teach_name": "Esmeralda",
+  "teach_surname": "Giuffrida",
+  "teach_email": "giuffrida@large.it"
+ },
+ {
+  "teach_code": "00019",
+  "teach_name": "Marco",
+  "teach_surname": "Bannari",
+  "teach_email": "bannari@large.it"
+ },
+ {
+  "teach_code": "00020",
+  "teach_name": "Cloe",
+  "teach_surname": "Noviello",
+  "teach_email": "noviello@large.it"
+ },
+ {
+  "teach_code": "00021",
+  "teach_name": "Fabiana",
+  "teach_surname": "Bucchieri",
+  "teach_email": "bucchieri@large.it"
+ },
+ {
+  "teach_code": "00022",
+  "teach_name": "Agostino",
+  "teach_surname": "Calvanelli",
+  "teach_email": "calvanelli@large.it"
+ },
+ {
+  "teach_code": "00023",
+  "teach_name": "Manuel",
+  "teach_surname": "Maria",
+  "teach_email": "maria@large.it"
+ },
+ {
+  "teach_code": "00024",
+  "teach_name": "Erica",
+  "teach_surname": "Angiolucci",
+  "teach_email": "angiolucci@large.it"
+ },
+ {
+  "teach_code": "00025",
+  "teach_name": "Alessia",
+  "teach_surname": "Bandettini",
+  "teach_email": "bandettini@large.it"
+ },
+ {
+  "teach_code": "00026",
+  "teach_name": "Elizabeth",
+  "teach_surname": "Cassuto",
+  "teach_email": "cassuto@large.it"
+ },
+ {
+  "teach_code": "00027",
+  "teach_name": "Giosue'",
+  "teach_surname": "Balderi",
+  "teach_email": "balderi@large.it"
+ },
+ {
+  "teach_code": "00028",
+  "teach_name": "Kristian",
+  "teach_surname": "Mosca",
+  "teach_email": "mosca@large.it"
+ },
+ {
+  "teach_code": "00029",
+  "teach_name": "Paul",
+  "teach_surname": "D'Aleo",
+  "teach_email": "daleo@large.it"
+ },
+ {
+  "teach_code": "00030",
+  "teach_name": "Adele",
+  "teach_surname": "Bonaduce",
+  "teach_email": "bonaduce@large.it"
+ },
+ {
+  "teach_code": "00031",
+  "teach_name": "Anthony",
+  "teach_surname": "Atzei",
+  "teach_email": "atzei@large.it"
+ },
+ {
+  "teach_code": "00032",
+  "teach_name": "Liam",
+  "teach_surname": "Marsiglia",
+  "teach_email": "marsiglia@large.it"
+ },
+ {
+  "teach_code": "00033",
+  "teach_name": "Bianca Maria",
+  "teach_surname": "Bomba",
+  "teach_email": "bomba@large.it"
+ },
+ {
+  "teach_code": "00034",
+  "teach_name": "Veronica",
+  "teach_surname": "Cardon",
+  "teach_email": "cardon@large.it"
+ },
+ {
+  "teach_code": "00035",
+  "teach_name": "Annarita",
+  "teach_surname": "Rignanese",
+  "teach_email": "rignanese@large.it"
+ },
+ {
+  "teach_code": "00036",
+  "teach_name": "Leila",
+  "teach_surname": "Borretti",
+  "teach_email": "borretti@large.it"
+ },
+ {
+  "teach_code": "00037",
+  "teach_name": "Giacomo",
+  "teach_surname": "Padovano",
+  "teach_email": "padovano@large.it"
+ },
+ {
+  "teach_code": "00038",
+  "teach_name": "Ascanio",
+  "teach_surname": "Faraone",
+  "teach_email": "faraone@large.it"
+ },
+ {
+  "teach_code": "00039",
+  "teach_name": "Marica",
+  "teach_surname": "Ongaro",
+  "teach_email": "ongaro@large.it"
+ },
+ {
+  "teach_code": "00040",
+  "teach_name": "Costantino",
+  "teach_surname": "Omuri",
+  "teach_email": "omuri@large.it"
+ },
+ {
+  "teach_code": "00041",
+  "teach_name": "Esmeralda",
+  "teach_surname": "Montone",
+  "teach_email": "montone@large.it"
+ },
+ {
+  "teach_code": "00042",
+  "teach_name": "Lea",
+  "teach_surname": "Minniti",
+  "teach_email": "minniti@large.it"
+ },
+ {
+  "teach_code": "00043",
+  "teach_name": "Joshua",
+  "teach_surname": "Ginanni",
+  "teach_email": "ginanni@large.it"
+ },
+ {
+  "teach_code": "00044",
+  "teach_name": "Zeno",
+  "teach_surname": "Gagnarli",
+  "teach_email": "gagnarli@large.it"
+ },
+ {
+  "teach_code": "00045",
+  "teach_name": "Maya",
+  "teach_surname": "Trofin",
+  "teach_email": "trofin@large.it"
+ },
+ {
+  "teach_code": "00046",
+  "teach_name": "Sofia Maria",
+  "teach_surname": "Freschi",
+  "teach_email": "freschi@large.it"
+ },
+ {
+  "teach_code": "00047",
+  "teach_name": "Bilal",
+  "teach_surname": "Cimarosa",
+  "teach_email": "cimarosa@large.it"
+ },
+ {
+  "teach_code": "00048",
+  "teach_name": "Alessio",
+  "teach_surname": "Ricotti",
+  "teach_email": "ricotti@large.it"
+ },
+ {
+  "teach_code": "00049",
+  "teach_name": "Delia",
+  "teach_surname": "Pulcinelli",
+  "teach_email": "pulcinelli@large.it"
+ },
+ {
+  "teach_code": "00050",
+  "teach_name": "Bianca",
+  "teach_surname": "Cassano",
+  "teach_email": "cassano@large.it"
+ },
+ {
+  "teach_code": "00051",
+  "teach_name": "Edoardo Maria",
+  "teach_surname": "Matalone",
+  "teach_email": "matalone@large.it"
+ },
+ {
+  "teach_code": "00052",
+  "teach_name": "Nunzio",
+  "teach_surname": "Tramontana",
+  "teach_email": "tramontana@large.it"
+ },
+ {
+  "teach_code": "00053",
+  "teach_name": "Lorenza",
+  "teach_surname": "Paparo",
+  "teach_email": "paparo@large.it"
+ },
+ {
+  "teach_code": "00054",
+  "teach_name": "Stefan",
+  "teach_surname": "Scidone",
+  "teach_email": "scidone@large.it"
+ },
+ {
+  "teach_code": "00055",
+  "teach_name": "Jason",
+  "teach_surname": "Fiordelisi",
+  "teach_email": "fiordelisi@large.it"
+ },
+ {
+  "teach_code": "00056",
+  "teach_name": "Ilyass",
+  "teach_surname": "Quartini",
+  "teach_email": "quartini@large.it"
+ },
+ {
+  "teach_code": "00057",
+  "teach_name": "Asia",
+  "teach_surname": "Iotti",
+  "teach_email": "iotti@large.it"
+ },
+ {
+  "teach_code": "00058",
+  "teach_name": "Jonathan",
+  "teach_surname": "Pravisani",
+  "teach_email": "pravisani@large.it"
+ },
+ {
+  "teach_code": "00059",
+  "teach_name": "Jakob",
+  "teach_surname": "Gagliano",
+  "teach_email": "gagliano@large.it"
+ },
+ {
+  "teach_code": "00060",
+  "teach_name": "Sami",
+  "teach_surname": "Rojas",
+  "teach_email": "rojas@large.it"
+ },
+ {
+  "teach_code": "00061",
+  "teach_name": "Riccardo",
+  "teach_surname": "Serratore",
+  "teach_email": "serratore@large.it"
+ },
+ {
+  "teach_code": "00062",
+  "teach_name": "Patrizia",
+  "teach_surname": "Zeloni",
+  "teach_email": "zeloni@large.it"
+ },
+ {
+  "teach_code": "00063",
+  "teach_name": "Evan",
+  "teach_surname": "Chiani",
+  "teach_email": "chiani@large.it"
+ },
+ {
+  "teach_code": "00064",
+  "teach_name": "Julia",
+  "teach_surname": "De La Cruz Rojas",
+  "teach_email": "delacruzrojas@large.it"
+ },
+ {
+  "teach_code": "00065",
+  "teach_name": "David Andrei",
+  "teach_surname": "Menconi",
+  "teach_email": "menconi@large.it"
+ },
+ {
+  "teach_code": "00066",
+  "teach_name": "Eleonora",
+  "teach_surname": "Cellini",
+  "teach_email": "cellini@large.it"
+ },
+ {
+  "teach_code": "00067",
+  "teach_name": "Carlo",
+  "teach_surname": "Beretta Anguissola",
+  "teach_email": "berettaanguissola@large.it"
+ },
+ {
+  "teach_code": "00068",
+  "teach_name": "Lorenzo Maria",
+  "teach_surname": "Vinciguerra",
+  "teach_email": "vinciguerra@large.it"
+ },
+ {
+  "teach_code": "00069",
+  "teach_name": "Julian",
+  "teach_surname": "Savu",
+  "teach_email": "savu@large.it"
+ },
+ {
+  "teach_code": "00070",
+  "teach_name": "Nicolo",
+  "teach_surname": "Ianni",
+  "teach_email": "ianni@large.it"
+ },
+ {
+  "teach_code": "00071",
+  "teach_name": "Giuseppe Pio",
+  "teach_surname": "Falchi",
+  "teach_email": "falchi@large.it"
+ },
+ {
+  "teach_code": "00072",
+  "teach_name": "Milo",
+  "teach_surname": "Assennato",
+  "teach_email": "assennato@large.it"
+ },
+ {
+  "teach_code": "00073",
+  "teach_name": "Mario",
+  "teach_surname": "Bichon",
+  "teach_email": "bichon@large.it"
+ },
+ {
+  "teach_code": "00074",
+  "teach_name": "Antonio",
+  "teach_surname": "Sgalla",
+  "teach_email": "sgalla@large.it"
+ },
+ {
+  "teach_code": "00075",
+  "teach_name": "Maddalena",
+  "teach_surname": "Neagoe",
+  "teach_email": "neagoe@large.it"
+ },
+ {
+  "teach_code": "00076",
+  "teach_name": "Ylenia",
+  "teach_surname": "Zappa",
+  "teach_email": "zappa@large.it"
+ },
+ {
+  "teach_code": "00077",
+  "teach_name": "Alessia Maria",
+  "teach_surname": "Quispe Villalva",
+  "teach_email": "quispevillalva@large.it"
+ },
+ {
+  "teach_code": "00078",
+  "teach_name": "Mirco",
+  "teach_surname": "Zappitelli",
+  "teach_email": "zappitelli@large.it"
+ },
+ {
+  "teach_code": "00079",
+  "teach_name": "Nicolo",
+  "teach_surname": "Berlincioni",
+  "teach_email": "berlincioni@large.it"
+ },
+ {
+  "teach_code": "00080",
+  "teach_name": "Manuele",
+  "teach_surname": "Masia",
+  "teach_email": "masia@large.it"
+ },
+ {
+  "teach_code": "00081",
+  "teach_name": "Maryam",
+  "teach_surname": "Ruggeri",
+  "teach_email": "ruggeri@large.it"
+ },
+ {
+  "teach_code": "00082",
+  "teach_name": "Viola",
+  "teach_surname": "Biagi",
+  "teach_email": "biagi@large.it"
+ },
+ {
+  "teach_code": "00083",
+  "teach_name": "Mohamed Amine",
+  "teach_surname": "Menzani",
+  "teach_email": "menzani@large.it"
+ },
+ {
+  "teach_code": "00084",
+  "teach_name": "Mouhamed",
+  "teach_surname": "Simonti",
+  "teach_email": "simonti@large.it"
+ },
+ {
+  "teach_code": "00085",
+  "teach_name": "Monica",
+  "teach_surname": "Moschitta",
+  "teach_email": "moschitta@large.it"
+ },
+ {
+  "teach_code": "00086",
+  "teach_name": "Brian",
+  "teach_surname": "Anania",
+  "teach_email": "anania@large.it"
+ },
+ {
+  "teach_code": "00087",
+  "teach_name": "Maria Rosaria",
+  "teach_surname": "Pisapia",
+  "teach_email": "pisapia@large.it"
+ },
+ {
+  "teach_code": "00088",
+  "teach_name": "Diletta",
+  "teach_surname": "Del Medico",
+  "teach_email": "delmedico@large.it"
+ },
+ {
+  "teach_code": "00089",
+  "teach_name": "Mariavittoria",
+  "teach_surname": "Pedone",
+  "teach_email": "pedone@large.it"
+ },
+ {
+  "teach_code": "00090",
+  "teach_name": "Paul",
+  "teach_surname": "D'Oriano",
+  "teach_email": "doriano@large.it"
+ },
+ {
+  "teach_code": "00091",
+  "teach_name": "Brayan",
+  "teach_surname": "Cortini",
+  "teach_email": "cortini@large.it"
+ },
+ {
+  "teach_code": "00092",
+  "teach_name": "Dante",
+  "teach_surname": "Gozzi",
+  "teach_email": "gozzi@large.it"
+ },
+ {
+  "teach_code": "00093",
+  "teach_name": "Eric",
+  "teach_surname": "Castellini",
+  "teach_email": "castellini@large.it"
+ },
+ {
+  "teach_code": "00094",
+  "teach_name": "Claudia",
+  "teach_surname": "Lo Cicero",
+  "teach_email": "locicero@large.it"
+ },
+ {
+  "teach_code": "00095",
+  "teach_name": "Giosue'",
+  "teach_surname": "Aziz",
+  "teach_email": "aziz@large.it"
+ },
+ {
+  "teach_code": "00096",
+  "teach_name": "Rossella",
+  "teach_surname": "Bruscagli",
+  "teach_email": "bruscagli@large.it"
+ },
+ {
+  "teach_code": "00097",
+  "teach_name": "Laura",
+  "teach_surname": "Settesoldi",
+  "teach_email": "settesoldi@large.it"
+ },
+ {
+  "teach_code": "00098",
+  "teach_name": "Edward",
+  "teach_surname": "Ulivelli",
+  "teach_email": "ulivelli@large.it"
+ },
+ {
+  "teach_code": "00099",
+  "teach_name": "Roberto",
+  "teach_surname": "Cocarica",
+  "teach_email": "cocarica@large.it"
+ }
+]

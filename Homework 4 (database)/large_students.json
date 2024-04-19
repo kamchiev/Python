@@ -1,0 +1,3008 @@
+[
+ {
+  "stud_code": "1654889",
+  "stud_name": "Elisabeth",
+  "stud_surname": "Poccianti",
+  "stud_email": "1654889_ep@large.it"
+ },
+ {
+  "stud_code": "1282030",
+  "stud_name": "Edward",
+  "stud_surname": "Casadei",
+  "stud_email": "1282030_ec@large.it"
+ },
+ {
+  "stud_code": "1712175",
+  "stud_name": "Cristina",
+  "stud_surname": "Grana",
+  "stud_email": "1712175_cg@large.it"
+ },
+ {
+  "stud_code": "1865588",
+  "stud_name": "Soraya",
+  "stud_surname": "Malespini",
+  "stud_email": "1865588_sm@large.it"
+ },
+ {
+  "stud_code": "1744548",
+  "stud_name": "Ayman",
+  "stud_surname": "Miraglia",
+  "stud_email": "1744548_am@large.it"
+ },
+ {
+  "stud_code": "1749838",
+  "stud_name": "Leo",
+  "stud_surname": "Bucchieri",
+  "stud_email": "1749838_lb@large.it"
+ },
+ {
+  "stud_code": "1543555",
+  "stud_name": "Rosa",
+  "stud_surname": "Falai",
+  "stud_email": "1543555_rf@large.it"
+ },
+ {
+  "stud_code": "1560128",
+  "stud_name": "Penelope",
+  "stud_surname": "Bellosi",
+  "stud_email": "1560128_pb@large.it"
+ },
+ {
+  "stud_code": "1668207",
+  "stud_name": "Ruben",
+  "stud_surname": "Liotta",
+  "stud_email": "1668207_rl@large.it"
+ },
+ {
+  "stud_code": "1323465",
+  "stud_name": "Nico",
+  "stud_surname": "Dindelli",
+  "stud_email": "1323465_nd@large.it"
+ },
+ {
+  "stud_code": "1891781",
+  "stud_name": "Bryan",
+  "stud_surname": "Dell'Olio",
+  "stud_email": "1891781_bd@large.it"
+ },
+ {
+  "stud_code": "1415464",
+  "stud_name": "Eleonora",
+  "stud_surname": "Cardamone",
+  "stud_email": "1415464_ec@large.it"
+ },
+ {
+  "stud_code": "1740544",
+  "stud_name": "Younes",
+  "stud_surname": "Galdo",
+  "stud_email": "1740544_yg@large.it"
+ },
+ {
+  "stud_code": "1262476",
+  "stud_name": "Flaminia",
+  "stud_surname": "Dinu",
+  "stud_email": "1262476_fd@large.it"
+ },
+ {
+  "stud_code": "1975385",
+  "stud_name": "Renato",
+  "stud_surname": "Lanziello",
+  "stud_email": "1975385_rl@large.it"
+ },
+ {
+  "stud_code": "1535383",
+  "stud_name": "Nicolo'",
+  "stud_surname": "Farinelli",
+  "stud_email": "1535383_nf@large.it"
+ },
+ {
+  "stud_code": "1457523",
+  "stud_name": "Manuela",
+  "stud_surname": "Sandrelli",
+  "stud_email": "1457523_ms@large.it"
+ },
+ {
+  "stud_code": "1350281",
+  "stud_name": "Serena",
+  "stud_surname": "Punzo",
+  "stud_email": "1350281_sp@large.it"
+ },
+ {
+  "stud_code": "1749780",
+  "stud_name": "Alma",
+  "stud_surname": "Cannoni",
+  "stud_email": "1749780_ac@large.it"
+ },
+ {
+  "stud_code": "1346996",
+  "stud_name": "Antonella",
+  "stud_surname": "Iannaco",
+  "stud_email": "1346996_ai@large.it"
+ },
+ {
+  "stud_code": "1626059",
+  "stud_name": "Bilal",
+  "stud_surname": "Asghar",
+  "stud_email": "1626059_ba@large.it"
+ },
+ {
+  "stud_code": "1516973",
+  "stud_name": "Anna",
+  "stud_surname": "Andreuccetti",
+  "stud_email": "1516973_aa@large.it"
+ },
+ {
+  "stud_code": "1480056",
+  "stud_name": "Jakob",
+  "stud_surname": "Inturri",
+  "stud_email": "1480056_ji@large.it"
+ },
+ {
+  "stud_code": "1519686",
+  "stud_name": "Mirko",
+  "stud_surname": "Sirica",
+  "stud_email": "1519686_ms@large.it"
+ },
+ {
+  "stud_code": "1710703",
+  "stud_name": "Luisa",
+  "stud_surname": "Beretta",
+  "stud_email": "1710703_lb@large.it"
+ },
+ {
+  "stud_code": "1755306",
+  "stud_name": "Sole",
+  "stud_surname": "Marcucci",
+  "stud_email": "1755306_sm@large.it"
+ },
+ {
+  "stud_code": "1425529",
+  "stud_name": "Morgana",
+  "stud_surname": "Piagnani",
+  "stud_email": "1425529_mp@large.it"
+ },
+ {
+  "stud_code": "1280676",
+  "stud_name": "Camilla",
+  "stud_surname": "Furieri",
+  "stud_email": "1280676_cf@large.it"
+ },
+ {
+  "stud_code": "1877481",
+  "stud_name": "Lidia",
+  "stud_surname": "Austria",
+  "stud_email": "1877481_la@large.it"
+ },
+ {
+  "stud_code": "1996774",
+  "stud_name": "Giorgia Maria",
+  "stud_surname": "Ricchi",
+  "stud_email": "1996774_gr@large.it"
+ },
+ {
+  "stud_code": "1854017",
+  "stud_name": "Orlando",
+  "stud_surname": "Sadini",
+  "stud_email": "1854017_os@large.it"
+ },
+ {
+  "stud_code": "1317644",
+  "stud_name": "Zoe",
+  "stud_surname": "Portogalli",
+  "stud_email": "1317644_zp@large.it"
+ },
+ {
+  "stud_code": "1728926",
+  "stud_name": "Alessandra",
+  "stud_surname": "Duro",
+  "stud_email": "1728926_ad@large.it"
+ },
+ {
+  "stud_code": "1872187",
+  "stud_name": "Sarah",
+  "stud_surname": "Sabatino",
+  "stud_email": "1872187_ss@large.it"
+ },
+ {
+  "stud_code": "1866354",
+  "stud_name": "Fernando",
+  "stud_surname": "Faraci",
+  "stud_email": "1866354_ff@large.it"
+ },
+ {
+  "stud_code": "1601922",
+  "stud_name": "Giusy",
+  "stud_surname": "Pisanelli",
+  "stud_email": "1601922_gp@large.it"
+ },
+ {
+  "stud_code": "1699321",
+  "stud_name": "Ryan",
+  "stud_surname": "Bressan",
+  "stud_email": "1699321_rb@large.it"
+ },
+ {
+  "stud_code": "1675421",
+  "stud_name": "Dora",
+  "stud_surname": "Lagascio",
+  "stud_email": "1675421_dl@large.it"
+ },
+ {
+  "stud_code": "1367077",
+  "stud_name": "Gianluca",
+  "stud_surname": "Prodan",
+  "stud_email": "1367077_gp@large.it"
+ },
+ {
+  "stud_code": "1942321",
+  "stud_name": "Cosimo",
+  "stud_surname": "Furi",
+  "stud_email": "1942321_cf@large.it"
+ },
+ {
+  "stud_code": "1602467",
+  "stud_name": "Rosario",
+  "stud_surname": "Guarracino",
+  "stud_email": "1602467_rg@large.it"
+ },
+ {
+  "stud_code": "1987668",
+  "stud_name": "Sofia Maria",
+  "stud_surname": "Del Bubba",
+  "stud_email": "1987668_sd@large.it"
+ },
+ {
+  "stud_code": "1890360",
+  "stud_name": "Cristina",
+  "stud_surname": "Bazzi",
+  "stud_email": "1890360_cb@large.it"
+ },
+ {
+  "stud_code": "1764243",
+  "stud_name": "Flavia",
+  "stud_surname": "Piva",
+  "stud_email": "1764243_fp@large.it"
+ },
+ {
+  "stud_code": "1858804",
+  "stud_name": "Antonietta",
+  "stud_surname": "Bernardis",
+  "stud_email": "1858804_ab@large.it"
+ },
+ {
+  "stud_code": "1538091",
+  "stud_name": "Morgana",
+  "stud_surname": "Scarsellini",
+  "stud_email": "1538091_ms@large.it"
+ },
+ {
+  "stud_code": "1257212",
+  "stud_name": "David Andrei",
+  "stud_surname": "Pozzesi",
+  "stud_email": "1257212_dp@large.it"
+ },
+ {
+  "stud_code": "1268259",
+  "stud_name": "Dominik",
+  "stud_surname": "Trovatelli",
+  "stud_email": "1268259_dt@large.it"
+ },
+ {
+  "stud_code": "1675793",
+  "stud_name": "Annarita",
+  "stud_surname": "Di Cesare",
+  "stud_email": "1675793_ad@large.it"
+ },
+ {
+  "stud_code": "1928525",
+  "stud_name": "Annamaria",
+  "stud_surname": "Nediani",
+  "stud_email": "1928525_an@large.it"
+ },
+ {
+  "stud_code": "1320731",
+  "stud_name": "Lapo",
+  "stud_surname": "Angioletti",
+  "stud_email": "1320731_la@large.it"
+ },
+ {
+  "stud_code": "1889225",
+  "stud_name": "Myriam",
+  "stud_surname": "Annunziati",
+  "stud_email": "1889225_ma@large.it"
+ },
+ {
+  "stud_code": "1594553",
+  "stud_name": "Ambra",
+  "stud_surname": "Jayawickrama",
+  "stud_email": "1594553_aj@large.it"
+ },
+ {
+  "stud_code": "1839312",
+  "stud_name": "Victor",
+  "stud_surname": "Tognazzi",
+  "stud_email": "1839312_vt@large.it"
+ },
+ {
+  "stud_code": "1942434",
+  "stud_name": "Mirco",
+  "stud_surname": "Manole",
+  "stud_email": "1942434_mm@large.it"
+ },
+ {
+  "stud_code": "1821577",
+  "stud_name": "Alfredo",
+  "stud_surname": "Sette",
+  "stud_email": "1821577_as@large.it"
+ },
+ {
+  "stud_code": "1697068",
+  "stud_name": "Isabel",
+  "stud_surname": "Petrovic",
+  "stud_email": "1697068_ip@large.it"
+ },
+ {
+  "stud_code": "1898736",
+  "stud_name": "Mouhamed",
+  "stud_surname": "Zheng",
+  "stud_email": "1898736_mz@large.it"
+ },
+ {
+  "stud_code": "1801870",
+  "stud_name": "Lorenza",
+  "stud_surname": "Corpuz",
+  "stud_email": "1801870_lc@large.it"
+ },
+ {
+  "stud_code": "1351233",
+  "stud_name": "Jonas",
+  "stud_surname": "Borghetti",
+  "stud_email": "1351233_jb@large.it"
+ },
+ {
+  "stud_code": "1476161",
+  "stud_name": "Mohamed",
+  "stud_surname": "Bechini",
+  "stud_email": "1476161_mb@large.it"
+ },
+ {
+  "stud_code": "1566789",
+  "stud_name": "Gennaro",
+  "stud_surname": "Seye",
+  "stud_email": "1566789_gs@large.it"
+ },
+ {
+  "stud_code": "1301266",
+  "stud_name": "Fabian",
+  "stud_surname": "Montinari",
+  "stud_email": "1301266_fm@large.it"
+ },
+ {
+  "stud_code": "1370239",
+  "stud_name": "Braian",
+  "stud_surname": "Banci",
+  "stud_email": "1370239_bb@large.it"
+ },
+ {
+  "stud_code": "1405663",
+  "stud_name": "Massimo",
+  "stud_surname": "Arcangeli",
+  "stud_email": "1405663_ma@large.it"
+ },
+ {
+  "stud_code": "1787486",
+  "stud_name": "Tobias",
+  "stud_surname": "Mohamed Gaal",
+  "stud_email": "1787486_tm@large.it"
+ },
+ {
+  "stud_code": "1843224",
+  "stud_name": "Mattias",
+  "stud_surname": "Scarano",
+  "stud_email": "1843224_ms@large.it"
+ },
+ {
+  "stud_code": "1429125",
+  "stud_name": "Miriam",
+  "stud_surname": "Zara",
+  "stud_email": "1429125_mz@large.it"
+ },
+ {
+  "stud_code": "1629056",
+  "stud_name": "Diana",
+  "stud_surname": "Marinelli",
+  "stud_email": "1629056_dm@large.it"
+ },
+ {
+  "stud_code": "1509839",
+  "stud_name": "Daniele",
+  "stud_surname": "Bazzanti",
+  "stud_email": "1509839_db@large.it"
+ },
+ {
+  "stud_code": "1839190",
+  "stud_name": "Carolina",
+  "stud_surname": "Sawicka",
+  "stud_email": "1839190_cs@large.it"
+ },
+ {
+  "stud_code": "1243035",
+  "stud_name": "Marco",
+  "stud_surname": "Bellanova",
+  "stud_email": "1243035_mb@large.it"
+ },
+ {
+  "stud_code": "1295550",
+  "stud_name": "Allegra",
+  "stud_surname": "Rollo",
+  "stud_email": "1295550_ar@large.it"
+ },
+ {
+  "stud_code": "1460327",
+  "stud_name": "Lina",
+  "stud_surname": "Annibale",
+  "stud_email": "1460327_la@large.it"
+ },
+ {
+  "stud_code": "1462593",
+  "stud_name": "Mirko",
+  "stud_surname": "Abatucci",
+  "stud_email": "1462593_ma@large.it"
+ },
+ {
+  "stud_code": "1252266",
+  "stud_name": "Felix",
+  "stud_surname": "Iezzi",
+  "stud_email": "1252266_fi@large.it"
+ },
+ {
+  "stud_code": "1710542",
+  "stud_name": "Cecilia",
+  "stud_surname": "Palanti",
+  "stud_email": "1710542_cp@large.it"
+ },
+ {
+  "stud_code": "1738306",
+  "stud_name": "Leonardo",
+  "stud_surname": "Pizzimenti",
+  "stud_email": "1738306_lp@large.it"
+ },
+ {
+  "stud_code": "1793333",
+  "stud_name": "Ziyad",
+  "stud_surname": "De Lauri",
+  "stud_email": "1793333_zd@large.it"
+ },
+ {
+  "stud_code": "1846132",
+  "stud_name": "Denis",
+  "stud_surname": "Cammelli",
+  "stud_email": "1846132_dc@large.it"
+ },
+ {
+  "stud_code": "1718934",
+  "stud_name": "Alessia Maria",
+  "stud_surname": "Risso",
+  "stud_email": "1718934_ar@large.it"
+ },
+ {
+  "stud_code": "1400022",
+  "stud_name": "Karol",
+  "stud_surname": "Carrega Bertolini Di Lucedio",
+  "stud_email": "1400022_kc@large.it"
+ },
+ {
+  "stud_code": "1327920",
+  "stud_name": "Anna",
+  "stud_surname": "Moussaid",
+  "stud_email": "1327920_am@large.it"
+ },
+ {
+  "stud_code": "1716405",
+  "stud_name": "Raffaella",
+  "stud_surname": "Taccioli",
+  "stud_email": "1716405_rt@large.it"
+ },
+ {
+  "stud_code": "1517901",
+  "stud_name": "Annamaria",
+  "stud_surname": "Randazzo",
+  "stud_email": "1517901_ar@large.it"
+ },
+ {
+  "stud_code": "1549168",
+  "stud_name": "Vincenzo",
+  "stud_surname": "Rosignoli",
+  "stud_email": "1549168_vr@large.it"
+ },
+ {
+  "stud_code": "1571163",
+  "stud_name": "Cristina",
+  "stud_surname": "Lagorio",
+  "stud_email": "1571163_cl@large.it"
+ },
+ {
+  "stud_code": "1790081",
+  "stud_name": "Vito",
+  "stud_surname": "Lorenzetti",
+  "stud_email": "1790081_vl@large.it"
+ },
+ {
+  "stud_code": "1692142",
+  "stud_name": "Ilyass",
+  "stud_surname": "Ahmed Mohamed",
+  "stud_email": "1692142_ia@large.it"
+ },
+ {
+  "stud_code": "1560214",
+  "stud_name": "Petra",
+  "stud_surname": "De Bernardo",
+  "stud_email": "1560214_pd@large.it"
+ },
+ {
+  "stud_code": "1424016",
+  "stud_name": "Anita",
+  "stud_surname": "Frugiuele",
+  "stud_email": "1424016_af@large.it"
+ },
+ {
+  "stud_code": "1670267",
+  "stud_name": "Veronica",
+  "stud_surname": "Naim",
+  "stud_email": "1670267_vn@large.it"
+ },
+ {
+  "stud_code": "1592067",
+  "stud_name": "Marwa",
+  "stud_surname": "Piccinotti",
+  "stud_email": "1592067_mp@large.it"
+ },
+ {
+  "stud_code": "1484274",
+  "stud_name": "Achille",
+  "stud_surname": "Ranasinghe Arachchige",
+  "stud_email": "1484274_ar@large.it"
+ },
+ {
+  "stud_code": "1986254",
+  "stud_name": "Anwar",
+  "stud_surname": "Tacconi",
+  "stud_email": "1986254_at@large.it"
+ },
+ {
+  "stud_code": "1577777",
+  "stud_name": "Victor",
+  "stud_surname": "Sarri",
+  "stud_email": "1577777_vs@large.it"
+ },
+ {
+  "stud_code": "1778183",
+  "stud_name": "Anna",
+  "stud_surname": "Baccellini",
+  "stud_email": "1778183_ab@large.it"
+ },
+ {
+  "stud_code": "1999012",
+  "stud_name": "Lukas",
+  "stud_surname": "Micangeli",
+  "stud_email": "1999012_lm@large.it"
+ },
+ {
+  "stud_code": "1528621",
+  "stud_name": "Flavia",
+  "stud_surname": "Carubi",
+  "stud_email": "1528621_fc@large.it"
+ },
+ {
+  "stud_code": "1305407",
+  "stud_name": "Victoria",
+  "stud_surname": "Buzukja",
+  "stud_email": "1305407_vb@large.it"
+ },
+ {
+  "stud_code": "1459069",
+  "stud_name": "Maria Vittoria",
+  "stud_surname": "Lumia",
+  "stud_email": "1459069_ml@large.it"
+ },
+ {
+  "stud_code": "1249743",
+  "stud_name": "Sabrina",
+  "stud_surname": "Battistella",
+  "stud_email": "1249743_sb@large.it"
+ },
+ {
+  "stud_code": "1648843",
+  "stud_name": "Fiamma",
+  "stud_surname": "Caponi",
+  "stud_email": "1648843_fc@large.it"
+ },
+ {
+  "stud_code": "1932926",
+  "stud_name": "Pierluigi",
+  "stud_surname": "Mennella",
+  "stud_email": "1932926_pm@large.it"
+ },
+ {
+  "stud_code": "1522200",
+  "stud_name": "Ettore",
+  "stud_surname": "Benassi",
+  "stud_email": "1522200_eb@large.it"
+ },
+ {
+  "stud_code": "1394413",
+  "stud_name": "Matthias",
+  "stud_surname": "Monzoni",
+  "stud_email": "1394413_mm@large.it"
+ },
+ {
+  "stud_code": "1532843",
+  "stud_name": "Iris",
+  "stud_surname": "Jaupaj",
+  "stud_email": "1532843_ij@large.it"
+ },
+ {
+  "stud_code": "1925390",
+  "stud_name": "Maia",
+  "stud_surname": "Giustini",
+  "stud_email": "1925390_mg@large.it"
+ },
+ {
+  "stud_code": "1583726",
+  "stud_name": "Eva",
+  "stud_surname": "Buonincontro",
+  "stud_email": "1583726_eb@large.it"
+ },
+ {
+  "stud_code": "1921615",
+  "stud_name": "Tomas",
+  "stud_surname": "Kowalska",
+  "stud_email": "1921615_tk@large.it"
+ },
+ {
+  "stud_code": "1659098",
+  "stud_name": "Rachele",
+  "stud_surname": "Dragoi",
+  "stud_email": "1659098_rd@large.it"
+ },
+ {
+  "stud_code": "1625430",
+  "stud_name": "Martina",
+  "stud_surname": "Malerbi",
+  "stud_email": "1625430_mm@large.it"
+ },
+ {
+  "stud_code": "1666301",
+  "stud_name": "Stefania",
+  "stud_surname": "Nocerino",
+  "stud_email": "1666301_sn@large.it"
+ },
+ {
+  "stud_code": "1960842",
+  "stud_name": "Christopher",
+  "stud_surname": "Sicari",
+  "stud_email": "1960842_cs@large.it"
+ },
+ {
+  "stud_code": "1768358",
+  "stud_name": "Raffaella",
+  "stud_surname": "Bignami",
+  "stud_email": "1768358_rb@large.it"
+ },
+ {
+  "stud_code": "1485830",
+  "stud_name": "Ilary",
+  "stud_surname": "Caradonna",
+  "stud_email": "1485830_ic@large.it"
+ },
+ {
+  "stud_code": "1893339",
+  "stud_name": "Carla",
+  "stud_surname": "Zamperini",
+  "stud_email": "1893339_cz@large.it"
+ },
+ {
+  "stud_code": "1894338",
+  "stud_name": "Sebastiano",
+  "stud_surname": "Prenga",
+  "stud_email": "1894338_sp@large.it"
+ },
+ {
+  "stud_code": "1857784",
+  "stud_name": "Lapo",
+  "stud_surname": "Alpi",
+  "stud_email": "1857784_la@large.it"
+ },
+ {
+  "stud_code": "1749547",
+  "stud_name": "Amy",
+  "stud_surname": "Fasanaro",
+  "stud_email": "1749547_af@large.it"
+ },
+ {
+  "stud_code": "1764862",
+  "stud_name": "Viola",
+  "stud_surname": "Nechifor",
+  "stud_email": "1764862_vn@large.it"
+ },
+ {
+  "stud_code": "1617582",
+  "stud_name": "Isabella",
+  "stud_surname": "Valderrama Zanabria",
+  "stud_email": "1617582_iv@large.it"
+ },
+ {
+  "stud_code": "1711916",
+  "stud_name": "Maria Sofia",
+  "stud_surname": "Ruberti",
+  "stud_email": "1711916_mr@large.it"
+ },
+ {
+  "stud_code": "1458254",
+  "stud_name": "Kristel",
+  "stud_surname": "Ottanelli",
+  "stud_email": "1458254_ko@large.it"
+ },
+ {
+  "stud_code": "1525506",
+  "stud_name": "Antonio Pio",
+  "stud_surname": "Mastronardi",
+  "stud_email": "1525506_am@large.it"
+ },
+ {
+  "stud_code": "1893587",
+  "stud_name": "Frida",
+  "stud_surname": "Ales",
+  "stud_email": "1893587_fa@large.it"
+ },
+ {
+  "stud_code": "1283397",
+  "stud_name": "Christian",
+  "stud_surname": "Fatichi",
+  "stud_email": "1283397_cf@large.it"
+ },
+ {
+  "stud_code": "1653736",
+  "stud_name": "Lorenza",
+  "stud_surname": "Nazzaro",
+  "stud_email": "1653736_ln@large.it"
+ },
+ {
+  "stud_code": "1486316",
+  "stud_name": "Matias",
+  "stud_surname": "Evertsen",
+  "stud_email": "1486316_me@large.it"
+ },
+ {
+  "stud_code": "1817746",
+  "stud_name": "Erika",
+  "stud_surname": "Nencioli",
+  "stud_email": "1817746_en@large.it"
+ },
+ {
+  "stud_code": "1705159",
+  "stud_name": "Wassim",
+  "stud_surname": "Scudieri",
+  "stud_email": "1705159_ws@large.it"
+ },
+ {
+  "stud_code": "1589767",
+  "stud_name": "Aldo",
+  "stud_surname": "Giampieri",
+  "stud_email": "1589767_ag@large.it"
+ },
+ {
+  "stud_code": "1728293",
+  "stud_name": "Erik",
+  "stud_surname": "Sinigaglia",
+  "stud_email": "1728293_es@large.it"
+ },
+ {
+  "stud_code": "1589680",
+  "stud_name": "Melania",
+  "stud_surname": "Urbini",
+  "stud_email": "1589680_mu@large.it"
+ },
+ {
+  "stud_code": "1974150",
+  "stud_name": "Enea",
+  "stud_surname": "Dimitrova",
+  "stud_email": "1974150_ed@large.it"
+ },
+ {
+  "stud_code": "1516556",
+  "stud_name": "Ludovico",
+  "stud_surname": "Jakaj",
+  "stud_email": "1516556_lj@large.it"
+ },
+ {
+  "stud_code": "1508007",
+  "stud_name": "Maria Giulia",
+  "stud_surname": "Ait Taleb",
+  "stud_email": "1508007_ma@large.it"
+ },
+ {
+  "stud_code": "1547148",
+  "stud_name": "Lena",
+  "stud_surname": "Meriggi",
+  "stud_email": "1547148_lm@large.it"
+ },
+ {
+  "stud_code": "1271035",
+  "stud_name": "Stefania",
+  "stud_surname": "Panci",
+  "stud_email": "1271035_sp@large.it"
+ },
+ {
+  "stud_code": "1584038",
+  "stud_name": "Riccardo",
+  "stud_surname": "Ilardi",
+  "stud_email": "1584038_ri@large.it"
+ },
+ {
+  "stud_code": "1720306",
+  "stud_name": "Gianmarco",
+  "stud_surname": "Ravaioli",
+  "stud_email": "1720306_gr@large.it"
+ },
+ {
+  "stud_code": "1241463",
+  "stud_name": "Lidia",
+  "stud_surname": "Mazzone",
+  "stud_email": "1241463_lm@large.it"
+ },
+ {
+  "stud_code": "1573669",
+  "stud_name": "Alexandru",
+  "stud_surname": "Cornea",
+  "stud_email": "1573669_ac@large.it"
+ },
+ {
+  "stud_code": "1460335",
+  "stud_name": "Beatrice Maria",
+  "stud_surname": "Tagliabue",
+  "stud_email": "1460335_bt@large.it"
+ },
+ {
+  "stud_code": "1851787",
+  "stud_name": "Mauro",
+  "stud_surname": "Bigliazzi",
+  "stud_email": "1851787_mb@large.it"
+ },
+ {
+  "stud_code": "1518557",
+  "stud_name": "Tomas",
+  "stud_surname": "Hoque",
+  "stud_email": "1518557_th@large.it"
+ },
+ {
+  "stud_code": "1420648",
+  "stud_name": "Claudio",
+  "stud_surname": "Ciaramella",
+  "stud_email": "1420648_cc@large.it"
+ },
+ {
+  "stud_code": "1383097",
+  "stud_name": "Valeria",
+  "stud_surname": "Pjetri",
+  "stud_email": "1383097_vp@large.it"
+ },
+ {
+  "stud_code": "1910532",
+  "stud_name": "Danilo",
+  "stud_surname": "Porru",
+  "stud_email": "1910532_dp@large.it"
+ },
+ {
+  "stud_code": "1718292",
+  "stud_name": "Serena",
+  "stud_surname": "Rogai",
+  "stud_email": "1718292_sr@large.it"
+ },
+ {
+  "stud_code": "1266383",
+  "stud_name": "Davide",
+  "stud_surname": "Meiattini",
+  "stud_email": "1266383_dm@large.it"
+ },
+ {
+  "stud_code": "1303798",
+  "stud_name": "Anas",
+  "stud_surname": "Zamperini",
+  "stud_email": "1303798_az@large.it"
+ },
+ {
+  "stud_code": "1288634",
+  "stud_name": "Clelia",
+  "stud_surname": "Picchiani",
+  "stud_email": "1288634_cp@large.it"
+ },
+ {
+  "stud_code": "1703484",
+  "stud_name": "Lea",
+  "stud_surname": "Terrone",
+  "stud_email": "1703484_lt@large.it"
+ },
+ {
+  "stud_code": "1681923",
+  "stud_name": "Yuri",
+  "stud_surname": "Brachetti",
+  "stud_email": "1681923_yb@large.it"
+ },
+ {
+  "stud_code": "1557320",
+  "stud_name": "Eduard",
+  "stud_surname": "Giarre'",
+  "stud_email": "1557320_eg@large.it"
+ },
+ {
+  "stud_code": "1726783",
+  "stud_name": "Morgana",
+  "stud_surname": "Lagrimino",
+  "stud_email": "1726783_ml@large.it"
+ },
+ {
+  "stud_code": "1819471",
+  "stud_name": "Adele",
+  "stud_surname": "Vigna",
+  "stud_email": "1819471_av@large.it"
+ },
+ {
+  "stud_code": "1313273",
+  "stud_name": "Maryam",
+  "stud_surname": "Denti",
+  "stud_email": "1313273_md@large.it"
+ },
+ {
+  "stud_code": "1238022",
+  "stud_name": "Justin",
+  "stud_surname": "Lamberti",
+  "stud_email": "1238022_jl@large.it"
+ },
+ {
+  "stud_code": "1539474",
+  "stud_name": "Francesco Antonio",
+  "stud_surname": "Carla'",
+  "stud_email": "1539474_fc@large.it"
+ },
+ {
+  "stud_code": "1836734",
+  "stud_name": "Marika",
+  "stud_surname": "Venticonti",
+  "stud_email": "1836734_mv@large.it"
+ },
+ {
+  "stud_code": "1694063",
+  "stud_name": "Francesco Maria",
+  "stud_surname": "Giannico",
+  "stud_email": "1694063_fg@large.it"
+ },
+ {
+  "stud_code": "1882260",
+  "stud_name": "Amos",
+  "stud_surname": "Marchetto",
+  "stud_email": "1882260_am@large.it"
+ },
+ {
+  "stud_code": "1511345",
+  "stud_name": "Romeo",
+  "stud_surname": "Soro",
+  "stud_email": "1511345_rs@large.it"
+ },
+ {
+  "stud_code": "1324009",
+  "stud_name": "Natalie",
+  "stud_surname": "Giabbani",
+  "stud_email": "1324009_ng@large.it"
+ },
+ {
+  "stud_code": "1791708",
+  "stud_name": "Delia",
+  "stud_surname": "Salomoni",
+  "stud_email": "1791708_ds@large.it"
+ },
+ {
+  "stud_code": "1545662",
+  "stud_name": "Tea",
+  "stud_surname": "Ricceri",
+  "stud_email": "1545662_tr@large.it"
+ },
+ {
+  "stud_code": "1611570",
+  "stud_name": "Aurelio",
+  "stud_surname": "Pasquini",
+  "stud_email": "1611570_ap@large.it"
+ },
+ {
+  "stud_code": "1749255",
+  "stud_name": "Evan",
+  "stud_surname": "Simiani",
+  "stud_email": "1749255_es@large.it"
+ },
+ {
+  "stud_code": "1874595",
+  "stud_name": "Anwar",
+  "stud_surname": "Berrocal Condor",
+  "stud_email": "1874595_ab@large.it"
+ },
+ {
+  "stud_code": "1510928",
+  "stud_name": "Ritaj",
+  "stud_surname": "Centi",
+  "stud_email": "1510928_rc@large.it"
+ },
+ {
+  "stud_code": "1803894",
+  "stud_name": "Marie",
+  "stud_surname": "Mo",
+  "stud_email": "1803894_mm@large.it"
+ },
+ {
+  "stud_code": "1518696",
+  "stud_name": "Antonietta",
+  "stud_surname": "Frilli",
+  "stud_email": "1518696_af@large.it"
+ },
+ {
+  "stud_code": "1980854",
+  "stud_name": "Nicoletta",
+  "stud_surname": "Sarcina",
+  "stud_email": "1980854_ns@large.it"
+ },
+ {
+  "stud_code": "1392538",
+  "stud_name": "Mariagrazia",
+  "stud_surname": "Carrino",
+  "stud_email": "1392538_mc@large.it"
+ },
+ {
+  "stud_code": "1884527",
+  "stud_name": "Bianca",
+  "stud_surname": "Nudo",
+  "stud_email": "1884527_bn@large.it"
+ },
+ {
+  "stud_code": "1951743",
+  "stud_name": "Anwar",
+  "stud_surname": "Mela",
+  "stud_email": "1951743_am@large.it"
+ },
+ {
+  "stud_code": "1808634",
+  "stud_name": "Diletta",
+  "stud_surname": "Lettieri",
+  "stud_email": "1808634_dl@large.it"
+ },
+ {
+  "stud_code": "1957609",
+  "stud_name": "Leandra",
+  "stud_surname": "Scarcella",
+  "stud_email": "1957609_ls@large.it"
+ },
+ {
+  "stud_code": "1428323",
+  "stud_name": "Kristel",
+  "stud_surname": "Caccavale",
+  "stud_email": "1428323_kc@large.it"
+ },
+ {
+  "stud_code": "1396024",
+  "stud_name": "Anas",
+  "stud_surname": "Favi",
+  "stud_email": "1396024_af@large.it"
+ },
+ {
+  "stud_code": "1901198",
+  "stud_name": "Marwa",
+  "stud_surname": "Dinca",
+  "stud_email": "1901198_md@large.it"
+ },
+ {
+  "stud_code": "1748515",
+  "stud_name": "Yassin",
+  "stud_surname": "Santin",
+  "stud_email": "1748515_ys@large.it"
+ },
+ {
+  "stud_code": "1482842",
+  "stud_name": "Maddalena",
+  "stud_surname": "Crisanaz",
+  "stud_email": "1482842_mc@large.it"
+ },
+ {
+  "stud_code": "1263261",
+  "stud_name": "Francesca Pia",
+  "stud_surname": "Versaci",
+  "stud_email": "1263261_fv@large.it"
+ },
+ {
+  "stud_code": "1661120",
+  "stud_name": "Roberto",
+  "stud_surname": "Caggese",
+  "stud_email": "1661120_rc@large.it"
+ },
+ {
+  "stud_code": "1343800",
+  "stud_name": "Sharon",
+  "stud_surname": "Finamore",
+  "stud_email": "1343800_sf@large.it"
+ },
+ {
+  "stud_code": "1659951",
+  "stud_name": "Ariel",
+  "stud_surname": "Catarzi",
+  "stud_email": "1659951_ac@large.it"
+ },
+ {
+  "stud_code": "1235299",
+  "stud_name": "David",
+  "stud_surname": "Amarante",
+  "stud_email": "1235299_da@large.it"
+ },
+ {
+  "stud_code": "1258162",
+  "stud_name": "Raffaele",
+  "stud_surname": "Vigiani",
+  "stud_email": "1258162_rv@large.it"
+ },
+ {
+  "stud_code": "1489111",
+  "stud_name": "Maria Chiara",
+  "stud_surname": "Muca",
+  "stud_email": "1489111_mm@large.it"
+ },
+ {
+  "stud_code": "1503668",
+  "stud_name": "Carola",
+  "stud_surname": "Albizzi",
+  "stud_email": "1503668_ca@large.it"
+ },
+ {
+  "stud_code": "1324389",
+  "stud_name": "Hiba",
+  "stud_surname": "Haliti",
+  "stud_email": "1324389_hh@large.it"
+ },
+ {
+  "stud_code": "1703561",
+  "stud_name": "Santiago",
+  "stud_surname": "Bayongan",
+  "stud_email": "1703561_sb@large.it"
+ },
+ {
+  "stud_code": "1772896",
+  "stud_name": "Noah",
+  "stud_surname": "Contini",
+  "stud_email": "1772896_nc@large.it"
+ },
+ {
+  "stud_code": "1931430",
+  "stud_name": "Gabriel",
+  "stud_surname": "Mercado",
+  "stud_email": "1931430_gm@large.it"
+ },
+ {
+  "stud_code": "1900925",
+  "stud_name": "Khadija",
+  "stud_surname": "Grisolini",
+  "stud_email": "1900925_kg@large.it"
+ },
+ {
+  "stud_code": "1983044",
+  "stud_name": "Matilda",
+  "stud_surname": "Frassineti",
+  "stud_email": "1983044_mf@large.it"
+ },
+ {
+  "stud_code": "1555277",
+  "stud_name": "Julian",
+  "stud_surname": "Spasari",
+  "stud_email": "1555277_js@large.it"
+ },
+ {
+  "stud_code": "1510424",
+  "stud_name": "Anna",
+  "stud_surname": "Pampaloni",
+  "stud_email": "1510424_ap@large.it"
+ },
+ {
+  "stud_code": "1607903",
+  "stud_name": "Ambra",
+  "stud_surname": "Tinarelli",
+  "stud_email": "1607903_at@large.it"
+ },
+ {
+  "stud_code": "1637835",
+  "stud_name": "Adriana",
+  "stud_surname": "Remorini",
+  "stud_email": "1637835_ar@large.it"
+ },
+ {
+  "stud_code": "1439102",
+  "stud_name": "Michele",
+  "stud_surname": "Paoletti",
+  "stud_email": "1439102_mp@large.it"
+ },
+ {
+  "stud_code": "1267234",
+  "stud_name": "Cosimo",
+  "stud_surname": "Masiero",
+  "stud_email": "1267234_cm@large.it"
+ },
+ {
+  "stud_code": "1852899",
+  "stud_name": "Gennaro",
+  "stud_surname": "Vessella",
+  "stud_email": "1852899_gv@large.it"
+ },
+ {
+  "stud_code": "1830475",
+  "stud_name": "Leone",
+  "stud_surname": "Servoli",
+  "stud_email": "1830475_ls@large.it"
+ },
+ {
+  "stud_code": "1639059",
+  "stud_name": "Ivan",
+  "stud_surname": "Becarelli",
+  "stud_email": "1639059_ib@large.it"
+ },
+ {
+  "stud_code": "1549318",
+  "stud_name": "Romeo",
+  "stud_surname": "Bagni",
+  "stud_email": "1549318_rb@large.it"
+ },
+ {
+  "stud_code": "1584300",
+  "stud_name": "Marta",
+  "stud_surname": "Ciufegni",
+  "stud_email": "1584300_mc@large.it"
+ },
+ {
+  "stud_code": "1437741",
+  "stud_name": "Francesco Pio",
+  "stud_surname": "Marone",
+  "stud_email": "1437741_fm@large.it"
+ },
+ {
+  "stud_code": "1686627",
+  "stud_name": "Nicole",
+  "stud_surname": "Bugliani",
+  "stud_email": "1686627_nb@large.it"
+ },
+ {
+  "stud_code": "1965491",
+  "stud_name": "Anna Maria",
+  "stud_surname": "Chiaretti",
+  "stud_email": "1965491_ac@large.it"
+ },
+ {
+  "stud_code": "1834641",
+  "stud_name": "Vittoria",
+  "stud_surname": "Vaiano",
+  "stud_email": "1834641_vv@large.it"
+ },
+ {
+  "stud_code": "1852229",
+  "stud_name": "Daniel",
+  "stud_surname": "Cersosimo",
+  "stud_email": "1852229_dc@large.it"
+ },
+ {
+  "stud_code": "1826231",
+  "stud_name": "Ahmed",
+  "stud_surname": "Ragazzo",
+  "stud_email": "1826231_ar@large.it"
+ },
+ {
+  "stud_code": "1670145",
+  "stud_name": "Akram",
+  "stud_surname": "Dommi",
+  "stud_email": "1670145_ad@large.it"
+ },
+ {
+  "stud_code": "1665014",
+  "stud_name": "Ian",
+  "stud_surname": "Minieri",
+  "stud_email": "1665014_im@large.it"
+ },
+ {
+  "stud_code": "1805334",
+  "stud_name": "Debora",
+  "stud_surname": "Monzani",
+  "stud_email": "1805334_dm@large.it"
+ },
+ {
+  "stud_code": "1741947",
+  "stud_name": "Israa",
+  "stud_surname": "Gandon",
+  "stud_email": "1741947_ig@large.it"
+ },
+ {
+  "stud_code": "1527743",
+  "stud_name": "Patrizio",
+  "stud_surname": "Mei",
+  "stud_email": "1527743_pm@large.it"
+ },
+ {
+  "stud_code": "1273139",
+  "stud_name": "Adem",
+  "stud_surname": "Comanducci",
+  "stud_email": "1273139_ac@large.it"
+ },
+ {
+  "stud_code": "1800103",
+  "stud_name": "Sergio",
+  "stud_surname": "Mucciarelli",
+  "stud_email": "1800103_sm@large.it"
+ },
+ {
+  "stud_code": "1766774",
+  "stud_name": "Marie",
+  "stud_surname": "Arangio",
+  "stud_email": "1766774_ma@large.it"
+ },
+ {
+  "stud_code": "1792057",
+  "stud_name": "Felix",
+  "stud_surname": "Molla",
+  "stud_email": "1792057_fm@large.it"
+ },
+ {
+  "stud_code": "1558040",
+  "stud_name": "Matteo",
+  "stud_surname": "Paloscia",
+  "stud_email": "1558040_mp@large.it"
+ },
+ {
+  "stud_code": "1503146",
+  "stud_name": "Teresa",
+  "stud_surname": "Buonanno",
+  "stud_email": "1503146_tb@large.it"
+ },
+ {
+  "stud_code": "1897817",
+  "stud_name": "Agostino",
+  "stud_surname": "Boganelli",
+  "stud_email": "1897817_ab@large.it"
+ },
+ {
+  "stud_code": "1422337",
+  "stud_name": "Adelaide",
+  "stud_surname": "Tonon",
+  "stud_email": "1422337_at@large.it"
+ },
+ {
+  "stud_code": "1859940",
+  "stud_name": "Marisol",
+  "stud_surname": "Paba",
+  "stud_email": "1859940_mp@large.it"
+ },
+ {
+  "stud_code": "1784431",
+  "stud_name": "Lina",
+  "stud_surname": "Giaccherini",
+  "stud_email": "1784431_lg@large.it"
+ },
+ {
+  "stud_code": "1346711",
+  "stud_name": "Nicol",
+  "stud_surname": "Tosini",
+  "stud_email": "1346711_nt@large.it"
+ },
+ {
+  "stud_code": "1815551",
+  "stud_name": "Mariarosaria",
+  "stud_surname": "Falcucci",
+  "stud_email": "1815551_mf@large.it"
+ },
+ {
+  "stud_code": "1319802",
+  "stud_name": "Erica",
+  "stud_surname": "Gjeka",
+  "stud_email": "1319802_eg@large.it"
+ },
+ {
+  "stud_code": "1590305",
+  "stud_name": "Mariarita",
+  "stud_surname": "Dizdari",
+  "stud_email": "1590305_md@large.it"
+ },
+ {
+  "stud_code": "1597606",
+  "stud_name": "Maria",
+  "stud_surname": "Sensini",
+  "stud_email": "1597606_ms@large.it"
+ },
+ {
+  "stud_code": "1626006",
+  "stud_name": "Melissa",
+  "stud_surname": "Portici",
+  "stud_email": "1626006_mp@large.it"
+ },
+ {
+  "stud_code": "1737557",
+  "stud_name": "Bianca Maria",
+  "stud_surname": "Mechi",
+  "stud_email": "1737557_bm@large.it"
+ },
+ {
+  "stud_code": "1427288",
+  "stud_name": "Giona",
+  "stud_surname": "Quinti",
+  "stud_email": "1427288_gq@large.it"
+ },
+ {
+  "stud_code": "1722203",
+  "stud_name": "Lucia",
+  "stud_surname": "Maestrini",
+  "stud_email": "1722203_lm@large.it"
+ },
+ {
+  "stud_code": "1812559",
+  "stud_name": "Mariasole",
+  "stud_surname": "Salcuno",
+  "stud_email": "1812559_ms@large.it"
+ },
+ {
+  "stud_code": "1579516",
+  "stud_name": "Fabian",
+  "stud_surname": "Bocchino",
+  "stud_email": "1579516_fb@large.it"
+ },
+ {
+  "stud_code": "1764805",
+  "stud_name": "Costantino",
+  "stud_surname": "Basevi",
+  "stud_email": "1764805_cb@large.it"
+ },
+ {
+  "stud_code": "1395456",
+  "stud_name": "Elisabeth",
+  "stud_surname": "Tamborrino",
+  "stud_email": "1395456_et@large.it"
+ },
+ {
+  "stud_code": "1753765",
+  "stud_name": "Asia",
+  "stud_surname": "Rufolo",
+  "stud_email": "1753765_ar@large.it"
+ },
+ {
+  "stud_code": "1954617",
+  "stud_name": "Mario",
+  "stud_surname": "Gulli'",
+  "stud_email": "1954617_mg@large.it"
+ },
+ {
+  "stud_code": "1679510",
+  "stud_name": "Chanel",
+  "stud_surname": "Spinelli",
+  "stud_email": "1679510_cs@large.it"
+ },
+ {
+  "stud_code": "1603705",
+  "stud_name": "Giada",
+  "stud_surname": "Marianelli",
+  "stud_email": "1603705_gm@large.it"
+ },
+ {
+  "stud_code": "1928590",
+  "stud_name": "Samir",
+  "stud_surname": "Rais",
+  "stud_email": "1928590_sr@large.it"
+ },
+ {
+  "stud_code": "1589681",
+  "stud_name": "Evan",
+  "stud_surname": "Accorinti",
+  "stud_email": "1589681_ea@large.it"
+ },
+ {
+  "stud_code": "1281525",
+  "stud_name": "Antonio Pio",
+  "stud_surname": "Manciu",
+  "stud_email": "1281525_am@large.it"
+ },
+ {
+  "stud_code": "1727491",
+  "stud_name": "Isacco",
+  "stud_surname": "Cicerone",
+  "stud_email": "1727491_ic@large.it"
+ },
+ {
+  "stud_code": "1297412",
+  "stud_name": "Frida",
+  "stud_surname": "Saraci",
+  "stud_email": "1297412_fs@large.it"
+ },
+ {
+  "stud_code": "1509254",
+  "stud_name": "Flavia",
+  "stud_surname": "Spanu",
+  "stud_email": "1509254_fs@large.it"
+ },
+ {
+  "stud_code": "1457395",
+  "stud_name": "Zoe",
+  "stud_surname": "Iliescu",
+  "stud_email": "1457395_zi@large.it"
+ },
+ {
+  "stud_code": "1968969",
+  "stud_name": "Michelangelo",
+  "stud_surname": "Marinetto",
+  "stud_email": "1968969_mm@large.it"
+ },
+ {
+  "stud_code": "1600480",
+  "stud_name": "Mirco",
+  "stud_surname": "Vagaggini",
+  "stud_email": "1600480_mv@large.it"
+ },
+ {
+  "stud_code": "1351763",
+  "stud_name": "Anastasia",
+  "stud_surname": "Maestrelli",
+  "stud_email": "1351763_am@large.it"
+ },
+ {
+  "stud_code": "1341158",
+  "stud_name": "Emiliano",
+  "stud_surname": "Cerchi",
+  "stud_email": "1341158_ec@large.it"
+ },
+ {
+  "stud_code": "1332925",
+  "stud_name": "Gianluigi",
+  "stud_surname": "Santandrea",
+  "stud_email": "1332925_gs@large.it"
+ },
+ {
+  "stud_code": "1459705",
+  "stud_name": "Raffaele",
+  "stud_surname": "Sperduto",
+  "stud_email": "1459705_rs@large.it"
+ },
+ {
+  "stud_code": "1973751",
+  "stud_name": "Stefano",
+  "stud_surname": "Incardona",
+  "stud_email": "1973751_si@large.it"
+ },
+ {
+  "stud_code": "1765160",
+  "stud_name": "Giulio",
+  "stud_surname": "Massarelli",
+  "stud_email": "1765160_gm@large.it"
+ },
+ {
+  "stud_code": "1491910",
+  "stud_name": "Carlotta",
+  "stud_surname": "Federighi",
+  "stud_email": "1491910_cf@large.it"
+ },
+ {
+  "stud_code": "1265530",
+  "stud_name": "Ludovico",
+  "stud_surname": "Notari",
+  "stud_email": "1265530_ln@large.it"
+ },
+ {
+  "stud_code": "1839407",
+  "stud_name": "Laila",
+  "stud_surname": "Gjini",
+  "stud_email": "1839407_lg@large.it"
+ },
+ {
+  "stud_code": "1881978",
+  "stud_name": "Antonia",
+  "stud_surname": "Campostrini",
+  "stud_email": "1881978_ac@large.it"
+ },
+ {
+  "stud_code": "1724615",
+  "stud_name": "Maria Pia",
+  "stud_surname": "Mensi",
+  "stud_email": "1724615_mm@large.it"
+ },
+ {
+  "stud_code": "1384086",
+  "stud_name": "Siria",
+  "stud_surname": "Quitti",
+  "stud_email": "1384086_sq@large.it"
+ },
+ {
+  "stud_code": "1238590",
+  "stud_name": "Maximilian",
+  "stud_surname": "Pettinari",
+  "stud_email": "1238590_mp@large.it"
+ },
+ {
+  "stud_code": "1939638",
+  "stud_name": "Maicol",
+  "stud_surname": "Perico",
+  "stud_email": "1939638_mp@large.it"
+ },
+ {
+  "stud_code": "1983629",
+  "stud_name": "Martina",
+  "stud_surname": "Picheca",
+  "stud_email": "1983629_mp@large.it"
+ },
+ {
+  "stud_code": "1992555",
+  "stud_name": "Cecilia",
+  "stud_surname": "Rojas Rojas",
+  "stud_email": "1992555_cr@large.it"
+ },
+ {
+  "stud_code": "1731572",
+  "stud_name": "Alexandra",
+  "stud_surname": "Sughi",
+  "stud_email": "1731572_as@large.it"
+ },
+ {
+  "stud_code": "1606098",
+  "stud_name": "Salma",
+  "stud_surname": "Arida",
+  "stud_email": "1606098_sa@large.it"
+ },
+ {
+  "stud_code": "1833792",
+  "stud_name": "Steven",
+  "stud_surname": "Crespi",
+  "stud_email": "1833792_sc@large.it"
+ },
+ {
+  "stud_code": "1549099",
+  "stud_name": "Ines",
+  "stud_surname": "Ricciardi",
+  "stud_email": "1549099_ir@large.it"
+ },
+ {
+  "stud_code": "1508946",
+  "stud_name": "Gianluigi",
+  "stud_surname": "Vallecchi",
+  "stud_email": "1508946_gv@large.it"
+ },
+ {
+  "stud_code": "1296078",
+  "stud_name": "Elena Sofia",
+  "stud_surname": "Marinaro",
+  "stud_email": "1296078_em@large.it"
+ },
+ {
+  "stud_code": "1890003",
+  "stud_name": "Francesco",
+  "stud_surname": "Petrache",
+  "stud_email": "1890003_fp@large.it"
+ },
+ {
+  "stud_code": "1678345",
+  "stud_name": "Anastasia",
+  "stud_surname": "Moldovan",
+  "stud_email": "1678345_am@large.it"
+ },
+ {
+  "stud_code": "1717508",
+  "stud_name": "Alice",
+  "stud_surname": "Winchler",
+  "stud_email": "1717508_aw@large.it"
+ },
+ {
+  "stud_code": "1411120",
+  "stud_name": "Raffaella",
+  "stud_surname": "Alimenti",
+  "stud_email": "1411120_ra@large.it"
+ },
+ {
+  "stud_code": "1683224",
+  "stud_name": "Siria",
+  "stud_surname": "Moscatelli",
+  "stud_email": "1683224_sm@large.it"
+ },
+ {
+  "stud_code": "1366482",
+  "stud_name": "Nina",
+  "stud_surname": "Gamuzza",
+  "stud_email": "1366482_ng@large.it"
+ },
+ {
+  "stud_code": "1907573",
+  "stud_name": "Jonathan",
+  "stud_surname": "Furia",
+  "stud_email": "1907573_jf@large.it"
+ },
+ {
+  "stud_code": "1737451",
+  "stud_name": "Anna Maria",
+  "stud_surname": "Nieddu",
+  "stud_email": "1737451_an@large.it"
+ },
+ {
+  "stud_code": "1621554",
+  "stud_name": "Mara",
+  "stud_surname": "Sorri Pancrazi Grassi",
+  "stud_email": "1621554_ms@large.it"
+ },
+ {
+  "stud_code": "1820545",
+  "stud_name": "Gianluca",
+  "stud_surname": "Gargaloni",
+  "stud_email": "1820545_gg@large.it"
+ },
+ {
+  "stud_code": "1363772",
+  "stud_name": "Enrico",
+  "stud_surname": "Ioseffi",
+  "stud_email": "1363772_ei@large.it"
+ },
+ {
+  "stud_code": "1532361",
+  "stud_name": "Andreas",
+  "stud_surname": "Bilotta",
+  "stud_email": "1532361_ab@large.it"
+ },
+ {
+  "stud_code": "1879504",
+  "stud_name": "Megan",
+  "stud_surname": "Agostini",
+  "stud_email": "1879504_ma@large.it"
+ },
+ {
+  "stud_code": "1597978",
+  "stud_name": "Antonella",
+  "stud_surname": "Patrussi",
+  "stud_email": "1597978_ap@large.it"
+ },
+ {
+  "stud_code": "1471733",
+  "stud_name": "Maddalena",
+  "stud_surname": "Cuscito",
+  "stud_email": "1471733_mc@large.it"
+ },
+ {
+  "stud_code": "1396853",
+  "stud_name": "Carmela",
+  "stud_surname": "Rossi Prodi",
+  "stud_email": "1396853_cr@large.it"
+ },
+ {
+  "stud_code": "1270655",
+  "stud_name": "Felix",
+  "stud_surname": "Shao",
+  "stud_email": "1270655_fs@large.it"
+ },
+ {
+  "stud_code": "1320752",
+  "stud_name": "Alan",
+  "stud_surname": "De Feo",
+  "stud_email": "1320752_ad@large.it"
+ },
+ {
+  "stud_code": "1697806",
+  "stud_name": "Raul",
+  "stud_surname": "Salzillo",
+  "stud_email": "1697806_rs@large.it"
+ },
+ {
+  "stud_code": "1582454",
+  "stud_name": "Emilio",
+  "stud_surname": "Parricchi",
+  "stud_email": "1582454_ep@large.it"
+ },
+ {
+  "stud_code": "1238230",
+  "stud_name": "Vittoria",
+  "stud_surname": "Franchi",
+  "stud_email": "1238230_vf@large.it"
+ },
+ {
+  "stud_code": "1963376",
+  "stud_name": "Nora",
+  "stud_surname": "Ravaglioli",
+  "stud_email": "1963376_nr@large.it"
+ },
+ {
+  "stud_code": "1719892",
+  "stud_name": "Daisy",
+  "stud_surname": "Caponera",
+  "stud_email": "1719892_dc@large.it"
+ },
+ {
+  "stud_code": "1969350",
+  "stud_name": "Francesco Paolo",
+  "stud_surname": "Franzese",
+  "stud_email": "1969350_ff@large.it"
+ },
+ {
+  "stud_code": "1247833",
+  "stud_name": "Ian",
+  "stud_surname": "Cangi",
+  "stud_email": "1247833_ic@large.it"
+ },
+ {
+  "stud_code": "1888441",
+  "stud_name": "Desiree",
+  "stud_surname": "Iandelli",
+  "stud_email": "1888441_di@large.it"
+ },
+ {
+  "stud_code": "1584446",
+  "stud_name": "Giovanna",
+  "stud_surname": "Androsoni",
+  "stud_email": "1584446_ga@large.it"
+ },
+ {
+  "stud_code": "1759846",
+  "stud_name": "Laila",
+  "stud_surname": "Tampieri",
+  "stud_email": "1759846_lt@large.it"
+ },
+ {
+  "stud_code": "1257484",
+  "stud_name": "Ludovico",
+  "stud_surname": "Brovelli",
+  "stud_email": "1257484_lb@large.it"
+ },
+ {
+  "stud_code": "1953040",
+  "stud_name": "Dennis",
+  "stud_surname": "Moisa",
+  "stud_email": "1953040_dm@large.it"
+ },
+ {
+  "stud_code": "1922417",
+  "stud_name": "Mariarosaria",
+  "stud_surname": "Bazzanti",
+  "stud_email": "1922417_mb@large.it"
+ },
+ {
+  "stud_code": "1317472",
+  "stud_name": "Geremia",
+  "stud_surname": "Bruschi",
+  "stud_email": "1317472_gb@large.it"
+ },
+ {
+  "stud_code": "1396084",
+  "stud_name": "Malika",
+  "stud_surname": "Casalino",
+  "stud_email": "1396084_mc@large.it"
+ },
+ {
+  "stud_code": "1537281",
+  "stud_name": "Alvise",
+  "stud_surname": "Gelichi",
+  "stud_email": "1537281_ag@large.it"
+ },
+ {
+  "stud_code": "1852168",
+  "stud_name": "Lisa",
+  "stud_surname": "Mlloja",
+  "stud_email": "1852168_lm@large.it"
+ },
+ {
+  "stud_code": "1792912",
+  "stud_name": "Mirko",
+  "stud_surname": "Casamenti",
+  "stud_email": "1792912_mc@large.it"
+ },
+ {
+  "stud_code": "1839915",
+  "stud_name": "Noemi",
+  "stud_surname": "Veronese",
+  "stud_email": "1839915_nv@large.it"
+ },
+ {
+  "stud_code": "1602333",
+  "stud_name": "Guglielmo",
+  "stud_surname": "Bria",
+  "stud_email": "1602333_gb@large.it"
+ },
+ {
+  "stud_code": "1800006",
+  "stud_name": "Ferdinando",
+  "stud_surname": "Tani",
+  "stud_email": "1800006_ft@large.it"
+ },
+ {
+  "stud_code": "1815066",
+  "stud_name": "Rosa",
+  "stud_surname": "Sonni",
+  "stud_email": "1815066_rs@large.it"
+ },
+ {
+  "stud_code": "1239597",
+  "stud_name": "Christian",
+  "stud_surname": "Kowalska",
+  "stud_email": "1239597_ck@large.it"
+ },
+ {
+  "stud_code": "1761184",
+  "stud_name": "Denis",
+  "stud_surname": "Bosco",
+  "stud_email": "1761184_db@large.it"
+ },
+ {
+  "stud_code": "1344376",
+  "stud_name": "Maria Sofia",
+  "stud_surname": "D'Amelio",
+  "stud_email": "1344376_md@large.it"
+ },
+ {
+  "stud_code": "1350136",
+  "stud_name": "Gioele",
+  "stud_surname": "Terzani",
+  "stud_email": "1350136_gt@large.it"
+ },
+ {
+  "stud_code": "1497197",
+  "stud_name": "Delia",
+  "stud_surname": "Corbucci",
+  "stud_email": "1497197_dc@large.it"
+ },
+ {
+  "stud_code": "1647606",
+  "stud_name": "Mark",
+  "stud_surname": "Delle Piane",
+  "stud_email": "1647606_md@large.it"
+ },
+ {
+  "stud_code": "1389802",
+  "stud_name": "Aya",
+  "stud_surname": "Davis",
+  "stud_email": "1389802_ad@large.it"
+ },
+ {
+  "stud_code": "1750885",
+  "stud_name": "Sonia",
+  "stud_surname": "Stopiglia",
+  "stud_email": "1750885_ss@large.it"
+ },
+ {
+  "stud_code": "1796051",
+  "stud_name": "Ziyad",
+  "stud_surname": "Migliaro",
+  "stud_email": "1796051_zm@large.it"
+ },
+ {
+  "stud_code": "1671498",
+  "stud_name": "Sara",
+  "stud_surname": "Gavini",
+  "stud_email": "1671498_sg@large.it"
+ },
+ {
+  "stud_code": "1367499",
+  "stud_name": "Viola",
+  "stud_surname": "Bardelli",
+  "stud_email": "1367499_vb@large.it"
+ },
+ {
+  "stud_code": "1369425",
+  "stud_name": "Carlos",
+  "stud_surname": "Provenzale",
+  "stud_email": "1369425_cp@large.it"
+ },
+ {
+  "stud_code": "1776983",
+  "stud_name": "Miriana",
+  "stud_surname": "Vilcea",
+  "stud_email": "1776983_mv@large.it"
+ },
+ {
+  "stud_code": "1508491",
+  "stud_name": "Gianmaria",
+  "stud_surname": "Del Vanga",
+  "stud_email": "1508491_gd@large.it"
+ },
+ {
+  "stud_code": "1770948",
+  "stud_name": "Tito",
+  "stud_surname": "El Idrissi",
+  "stud_email": "1770948_te@large.it"
+ },
+ {
+  "stud_code": "1345155",
+  "stud_name": "Romeo",
+  "stud_surname": "Carosi",
+  "stud_email": "1345155_rc@large.it"
+ },
+ {
+  "stud_code": "1781939",
+  "stud_name": "Rosario",
+  "stud_surname": "Buonamici",
+  "stud_email": "1781939_rb@large.it"
+ },
+ {
+  "stud_code": "1577875",
+  "stud_name": "Amedeo",
+  "stud_surname": "Xhafa",
+  "stud_email": "1577875_ax@large.it"
+ },
+ {
+  "stud_code": "1946513",
+  "stud_name": "Gennaro",
+  "stud_surname": "Sagrinati",
+  "stud_email": "1946513_gs@large.it"
+ },
+ {
+  "stud_code": "1753378",
+  "stud_name": "Vera",
+  "stud_surname": "Faraji",
+  "stud_email": "1753378_vf@large.it"
+ },
+ {
+  "stud_code": "1333034",
+  "stud_name": "Giulio",
+  "stud_surname": "Coppetti",
+  "stud_email": "1333034_gc@large.it"
+ },
+ {
+  "stud_code": "1573114",
+  "stud_name": "Chanel",
+  "stud_surname": "Mari",
+  "stud_email": "1573114_cm@large.it"
+ },
+ {
+  "stud_code": "1728506",
+  "stud_name": "Sole",
+  "stud_surname": "Civoli",
+  "stud_email": "1728506_sc@large.it"
+ },
+ {
+  "stud_code": "1402477",
+  "stud_name": "Giovanna",
+  "stud_surname": "Illiano",
+  "stud_email": "1402477_gi@large.it"
+ },
+ {
+  "stud_code": "1624919",
+  "stud_name": "Carmen",
+  "stud_surname": "De Alfieri",
+  "stud_email": "1624919_cd@large.it"
+ },
+ {
+  "stud_code": "1656795",
+  "stud_name": "Andrea",
+  "stud_surname": "Carpanesi",
+  "stud_email": "1656795_ac@large.it"
+ },
+ {
+  "stud_code": "1285638",
+  "stud_name": "Matias",
+  "stud_surname": "Contu",
+  "stud_email": "1285638_mc@large.it"
+ },
+ {
+  "stud_code": "1270393",
+  "stud_name": "Giulia",
+  "stud_surname": "Zaccone",
+  "stud_email": "1270393_gz@large.it"
+ },
+ {
+  "stud_code": "1900719",
+  "stud_name": "Nadia",
+  "stud_surname": "Masotti",
+  "stud_email": "1900719_nm@large.it"
+ },
+ {
+  "stud_code": "1561048",
+  "stud_name": "Vittoria",
+  "stud_surname": "Aliberti",
+  "stud_email": "1561048_va@large.it"
+ },
+ {
+  "stud_code": "1948642",
+  "stud_name": "Aicha",
+  "stud_surname": "Poglietelli",
+  "stud_email": "1948642_ap@large.it"
+ },
+ {
+  "stud_code": "1284216",
+  "stud_name": "Gioia",
+  "stud_surname": "Rulli",
+  "stud_email": "1284216_gr@large.it"
+ },
+ {
+  "stud_code": "1531455",
+  "stud_name": "Emanuele",
+  "stud_surname": "Murabito",
+  "stud_email": "1531455_em@large.it"
+ },
+ {
+  "stud_code": "1812601",
+  "stud_name": "Nour",
+  "stud_surname": "Fratoni",
+  "stud_email": "1812601_nf@large.it"
+ },
+ {
+  "stud_code": "1807059",
+  "stud_name": "Mohammed",
+  "stud_surname": "Mingarelli",
+  "stud_email": "1807059_mm@large.it"
+ },
+ {
+  "stud_code": "1714893",
+  "stud_name": "Alba",
+  "stud_surname": "Ciervo",
+  "stud_email": "1714893_ac@large.it"
+ },
+ {
+  "stud_code": "1688367",
+  "stud_name": "Chanel",
+  "stud_surname": "Moretto",
+  "stud_email": "1688367_cm@large.it"
+ },
+ {
+  "stud_code": "1953303",
+  "stud_name": "Michelangelo",
+  "stud_surname": "Bittoni",
+  "stud_email": "1953303_mb@large.it"
+ },
+ {
+  "stud_code": "1443560",
+  "stud_name": "Wassim",
+  "stud_surname": "Gamba",
+  "stud_email": "1443560_wg@large.it"
+ },
+ {
+  "stud_code": "1541697",
+  "stud_name": "Sharon",
+  "stud_surname": "Plaiasu",
+  "stud_email": "1541697_sp@large.it"
+ },
+ {
+  "stud_code": "1235060",
+  "stud_name": "Antonietta",
+  "stud_surname": "Capella",
+  "stud_email": "1235060_ac@large.it"
+ },
+ {
+  "stud_code": "1592110",
+  "stud_name": "Marco",
+  "stud_surname": "Miletta",
+  "stud_email": "1592110_mm@large.it"
+ },
+ {
+  "stud_code": "1566983",
+  "stud_name": "Santo",
+  "stud_surname": "Godel",
+  "stud_email": "1566983_sg@large.it"
+ },
+ {
+  "stud_code": "1427695",
+  "stud_name": "Donato",
+  "stud_surname": "Silvestro",
+  "stud_email": "1427695_ds@large.it"
+ },
+ {
+  "stud_code": "1932184",
+  "stud_name": "Alexander",
+  "stud_surname": "Moschella",
+  "stud_email": "1932184_am@large.it"
+ },
+ {
+  "stud_code": "1655829",
+  "stud_name": "Alisia",
+  "stud_surname": "Andres",
+  "stud_email": "1655829_aa@large.it"
+ },
+ {
+  "stud_code": "1685661",
+  "stud_name": "Iyad",
+  "stud_surname": "Grillo",
+  "stud_email": "1685661_ig@large.it"
+ },
+ {
+  "stud_code": "1791199",
+  "stud_name": "Mauro",
+  "stud_surname": "Perrotti",
+  "stud_email": "1791199_mp@large.it"
+ },
+ {
+  "stud_code": "1244241",
+  "stud_name": "Aurelio",
+  "stud_surname": "Divita",
+  "stud_email": "1244241_ad@large.it"
+ },
+ {
+  "stud_code": "1756332",
+  "stud_name": "Simon",
+  "stud_surname": "Vairo",
+  "stud_email": "1756332_sv@large.it"
+ },
+ {
+  "stud_code": "1324470",
+  "stud_name": "Ascanio",
+  "stud_surname": "Maniscalchi",
+  "stud_email": "1324470_am@large.it"
+ },
+ {
+  "stud_code": "1920122",
+  "stud_name": "Cristel",
+  "stud_surname": "Decandia",
+  "stud_email": "1920122_cd@large.it"
+ },
+ {
+  "stud_code": "1320100",
+  "stud_name": "Livia",
+  "stud_surname": "Defazio",
+  "stud_email": "1320100_ld@large.it"
+ },
+ {
+  "stud_code": "1258810",
+  "stud_name": "Carolina",
+  "stud_surname": "Godi",
+  "stud_email": "1258810_cg@large.it"
+ },
+ {
+  "stud_code": "1368976",
+  "stud_name": "Noe'",
+  "stud_surname": "Gallucci",
+  "stud_email": "1368976_ng@large.it"
+ },
+ {
+  "stud_code": "1379513",
+  "stud_name": "Bianca Maria",
+  "stud_surname": "Salsetta",
+  "stud_email": "1379513_bs@large.it"
+ },
+ {
+  "stud_code": "1480448",
+  "stud_name": "Viola",
+  "stud_surname": "Marchionne",
+  "stud_email": "1480448_vm@large.it"
+ },
+ {
+  "stud_code": "1326300",
+  "stud_name": "Manfredi",
+  "stud_surname": "Santelli",
+  "stud_email": "1326300_ms@large.it"
+ },
+ {
+  "stud_code": "1952349",
+  "stud_name": "Ferdinando",
+  "stud_surname": "Del Moro",
+  "stud_email": "1952349_fd@large.it"
+ },
+ {
+  "stud_code": "1246870",
+  "stud_name": "Joshua",
+  "stud_surname": "Pontieri",
+  "stud_email": "1246870_jp@large.it"
+ },
+ {
+  "stud_code": "1601449",
+  "stud_name": "Laila",
+  "stud_surname": "Pavolini",
+  "stud_email": "1601449_lp@large.it"
+ },
+ {
+  "stud_code": "1820117",
+  "stud_name": "Ylenia",
+  "stud_surname": "Pontillo",
+  "stud_email": "1820117_yp@large.it"
+ },
+ {
+  "stud_code": "1305586",
+  "stud_name": "Athena",
+  "stud_surname": "Iandelli",
+  "stud_email": "1305586_ai@large.it"
+ },
+ {
+  "stud_code": "1324197",
+  "stud_name": "Marianna",
+  "stud_surname": "Generini",
+  "stud_email": "1324197_mg@large.it"
+ },
+ {
+  "stud_code": "1558807",
+  "stud_name": "Achille",
+  "stud_surname": "Calamai",
+  "stud_email": "1558807_ac@large.it"
+ },
+ {
+  "stud_code": "1306774",
+  "stud_name": "Rania",
+  "stud_surname": "Capitani",
+  "stud_email": "1306774_rc@large.it"
+ },
+ {
+  "stud_code": "1618857",
+  "stud_name": "Maria Francesca",
+  "stud_surname": "Vallini",
+  "stud_email": "1618857_mv@large.it"
+ },
+ {
+  "stud_code": "1361518",
+  "stud_name": "Nicoletta",
+  "stud_surname": "Pezzuto",
+  "stud_email": "1361518_np@large.it"
+ },
+ {
+  "stud_code": "1994667",
+  "stud_name": "Corrado",
+  "stud_surname": "Pomo",
+  "stud_email": "1994667_cp@large.it"
+ },
+ {
+  "stud_code": "1601086",
+  "stud_name": "Raoul",
+  "stud_surname": "Ginestrini",
+  "stud_email": "1601086_rg@large.it"
+ },
+ {
+  "stud_code": "1809761",
+  "stud_name": "Myriam",
+  "stud_surname": "Cipriano",
+  "stud_email": "1809761_mc@large.it"
+ },
+ {
+  "stud_code": "1468981",
+  "stud_name": "Teo",
+  "stud_surname": "Bausi",
+  "stud_email": "1468981_tb@large.it"
+ },
+ {
+  "stud_code": "1887657",
+  "stud_name": "Bryan",
+  "stud_surname": "Cimato",
+  "stud_email": "1887657_bc@large.it"
+ },
+ {
+  "stud_code": "1309645",
+  "stud_name": "Ferdinando",
+  "stud_surname": "Lari",
+  "stud_email": "1309645_fl@large.it"
+ },
+ {
+  "stud_code": "1507570",
+  "stud_name": "David Gabriel",
+  "stud_surname": "Gigliotti",
+  "stud_email": "1507570_dg@large.it"
+ },
+ {
+  "stud_code": "1466216",
+  "stud_name": "Vittorio",
+  "stud_surname": "Sartorio",
+  "stud_email": "1466216_vs@large.it"
+ },
+ {
+  "stud_code": "1602256",
+  "stud_name": "Ethan",
+  "stud_surname": "Piccinin",
+  "stud_email": "1602256_ep@large.it"
+ },
+ {
+  "stud_code": "1684837",
+  "stud_name": "Costantino",
+  "stud_surname": "Soldi",
+  "stud_email": "1684837_cs@large.it"
+ },
+ {
+  "stud_code": "1929584",
+  "stud_name": "Alice",
+  "stud_surname": "Lorenzi",
+  "stud_email": "1929584_al@large.it"
+ },
+ {
+  "stud_code": "1401428",
+  "stud_name": "Karol",
+  "stud_surname": "Budeanu",
+  "stud_email": "1401428_kb@large.it"
+ },
+ {
+  "stud_code": "1349666",
+  "stud_name": "Anthony",
+  "stud_surname": "Failla Rifici",
+  "stud_email": "1349666_af@large.it"
+ },
+ {
+  "stud_code": "1421376",
+  "stud_name": "Karol",
+  "stud_surname": "Sodero",
+  "stud_email": "1421376_ks@large.it"
+ },
+ {
+  "stud_code": "1976408",
+  "stud_name": "Dylan",
+  "stud_surname": "Anania",
+  "stud_email": "1976408_da@large.it"
+ },
+ {
+  "stud_code": "1988517",
+  "stud_name": "Emanuele",
+  "stud_surname": "Hofer",
+  "stud_email": "1988517_eh@large.it"
+ },
+ {
+  "stud_code": "1617249",
+  "stud_name": "Milena",
+  "stud_surname": "Milia",
+  "stud_email": "1617249_mm@large.it"
+ },
+ {
+  "stud_code": "1307814",
+  "stud_name": "Morgana",
+  "stud_surname": "Gonfiantini",
+  "stud_email": "1307814_mg@large.it"
+ },
+ {
+  "stud_code": "1384876",
+  "stud_name": "Pierluigi",
+  "stud_surname": "Lentini",
+  "stud_email": "1384876_pl@large.it"
+ },
+ {
+  "stud_code": "1643763",
+  "stud_name": "Esmeralda",
+  "stud_surname": "Ghiglia",
+  "stud_email": "1643763_eg@large.it"
+ },
+ {
+  "stud_code": "1764698",
+  "stud_name": "Raoul",
+  "stud_surname": "Alushi",
+  "stud_email": "1764698_ra@large.it"
+ },
+ {
+  "stud_code": "1729087",
+  "stud_name": "Benjamin",
+  "stud_surname": "Bernieri",
+  "stud_email": "1729087_bb@large.it"
+ },
+ {
+  "stud_code": "1747280",
+  "stud_name": "Maria Francesca",
+  "stud_surname": "Sbrocchi",
+  "stud_email": "1747280_ms@large.it"
+ },
+ {
+  "stud_code": "1336712",
+  "stud_name": "Israa",
+  "stud_surname": "Scafuto",
+  "stud_email": "1336712_is@large.it"
+ },
+ {
+  "stud_code": "1529327",
+  "stud_name": "Ahmed",
+  "stud_surname": "Vati",
+  "stud_email": "1529327_av@large.it"
+ },
+ {
+  "stud_code": "1788947",
+  "stud_name": "Fabio",
+  "stud_surname": "Parrucci",
+  "stud_email": "1788947_fp@large.it"
+ },
+ {
+  "stud_code": "1436970",
+  "stud_name": "Guido",
+  "stud_surname": "Scarsellini",
+  "stud_email": "1436970_gs@large.it"
+ },
+ {
+  "stud_code": "1439173",
+  "stud_name": "Marina",
+  "stud_surname": "Paludi",
+  "stud_email": "1439173_mp@large.it"
+ },
+ {
+  "stud_code": "1870358",
+  "stud_name": "Gaetano",
+  "stud_surname": "Cucchiarini",
+  "stud_email": "1870358_gc@large.it"
+ },
+ {
+  "stud_code": "1378631",
+  "stud_name": "Luciano",
+  "stud_surname": "Cofone",
+  "stud_email": "1378631_lc@large.it"
+ },
+ {
+  "stud_code": "1589193",
+  "stud_name": "Martino",
+  "stud_surname": "Ibro",
+  "stud_email": "1589193_mi@large.it"
+ },
+ {
+  "stud_code": "1875935",
+  "stud_name": "Cecilia",
+  "stud_surname": "Salemi",
+  "stud_email": "1875935_cs@large.it"
+ },
+ {
+  "stud_code": "1383857",
+  "stud_name": "Pablo",
+  "stud_surname": "Casini",
+  "stud_email": "1383857_pc@large.it"
+ },
+ {
+  "stud_code": "1688065",
+  "stud_name": "Monica",
+  "stud_surname": "De Mattia",
+  "stud_email": "1688065_md@large.it"
+ },
+ {
+  "stud_code": "1322891",
+  "stud_name": "Massimo",
+  "stud_surname": "Graffeo",
+  "stud_email": "1322891_mg@large.it"
+ },
+ {
+  "stud_code": "1269921",
+  "stud_name": "Ethan",
+  "stud_surname": "El Alouani",
+  "stud_email": "1269921_ee@large.it"
+ },
+ {
+  "stud_code": "1712956",
+  "stud_name": "Bianca Maria",
+  "stud_surname": "Arafa Ali",
+  "stud_email": "1712956_ba@large.it"
+ },
+ {
+  "stud_code": "1596493",
+  "stud_name": "Fabiana",
+  "stud_surname": "Gangi",
+  "stud_email": "1596493_fg@large.it"
+ },
+ {
+  "stud_code": "1656345",
+  "stud_name": "Guglielmo",
+  "stud_surname": "Ripi",
+  "stud_email": "1656345_gr@large.it"
+ },
+ {
+  "stud_code": "1539576",
+  "stud_name": "Jannat",
+  "stud_surname": "Fogli",
+  "stud_email": "1539576_jf@large.it"
+ },
+ {
+  "stud_code": "1433869",
+  "stud_name": "Soraya",
+  "stud_surname": "Primatici",
+  "stud_email": "1433869_sp@large.it"
+ },
+ {
+  "stud_code": "1461691",
+  "stud_name": "Ottavia",
+  "stud_surname": "Ballesi",
+  "stud_email": "1461691_ob@large.it"
+ },
+ {
+  "stud_code": "1616332",
+  "stud_name": "Antonio Pio",
+  "stud_surname": "Becocci",
+  "stud_email": "1616332_ab@large.it"
+ },
+ {
+  "stud_code": "1505569",
+  "stud_name": "Nunzio",
+  "stud_surname": "Bianciardi",
+  "stud_email": "1505569_nb@large.it"
+ },
+ {
+  "stud_code": "1691715",
+  "stud_name": "Rafael",
+  "stud_surname": "Solomon",
+  "stud_email": "1691715_rs@large.it"
+ },
+ {
+  "stud_code": "1255271",
+  "stud_name": "Francesca",
+  "stud_surname": "Gaggio",
+  "stud_email": "1255271_fg@large.it"
+ },
+ {
+  "stud_code": "1560590",
+  "stud_name": "Mattias",
+  "stud_surname": "Menichelli",
+  "stud_email": "1560590_mm@large.it"
+ },
+ {
+  "stud_code": "1973744",
+  "stud_name": "Andrea",
+  "stud_surname": "Pedrolli",
+  "stud_email": "1973744_ap@large.it"
+ },
+ {
+  "stud_code": "1569203",
+  "stud_name": "Agostino",
+  "stud_surname": "Mamma",
+  "stud_email": "1569203_am@large.it"
+ },
+ {
+  "stud_code": "1650859",
+  "stud_name": "Athena",
+  "stud_surname": "Bazzi",
+  "stud_email": "1650859_ab@large.it"
+ },
+ {
+  "stud_code": "1518665",
+  "stud_name": "Adriana",
+  "stud_surname": "Scarselli",
+  "stud_email": "1518665_as@large.it"
+ },
+ {
+  "stud_code": "1632687",
+  "stud_name": "Tito",
+  "stud_surname": "Manganelli",
+  "stud_email": "1632687_tm@large.it"
+ },
+ {
+  "stud_code": "1309502",
+  "stud_name": "Damian",
+  "stud_surname": "Conde",
+  "stud_email": "1309502_dc@large.it"
+ },
+ {
+  "stud_code": "1883631",
+  "stud_name": "Luciano",
+  "stud_surname": "Pirisi",
+  "stud_email": "1883631_lp@large.it"
+ },
+ {
+  "stud_code": "1817077",
+  "stud_name": "Gabriel",
+  "stud_surname": "Brazzi",
+  "stud_email": "1817077_gb@large.it"
+ },
+ {
+  "stud_code": "1332302",
+  "stud_name": "Vito",
+  "stud_surname": "Sancasciani",
+  "stud_email": "1332302_vs@large.it"
+ },
+ {
+  "stud_code": "1962504",
+  "stud_name": "Maurizio",
+  "stud_surname": "Del Pace",
+  "stud_email": "1962504_md@large.it"
+ },
+ {
+  "stud_code": "1331378",
+  "stud_name": "Paride",
+  "stud_surname": "Pistelli",
+  "stud_email": "1331378_pp@large.it"
+ },
+ {
+  "stud_code": "1524397",
+  "stud_name": "Salvatore",
+  "stud_surname": "Zaccaria",
+  "stud_email": "1524397_sz@large.it"
+ },
+ {
+  "stud_code": "1674086",
+  "stud_name": "Ziyad",
+  "stud_surname": "Manniello",
+  "stud_email": "1674086_zm@large.it"
+ },
+ {
+  "stud_code": "1331297",
+  "stud_name": "Leon",
+  "stud_surname": "Coccolini",
+  "stud_email": "1331297_lc@large.it"
+ },
+ {
+  "stud_code": "1610380",
+  "stud_name": "Sveva",
+  "stud_surname": "Ristori",
+  "stud_email": "1610380_sr@large.it"
+ },
+ {
+  "stud_code": "1812372",
+  "stud_name": "Maria Francesca",
+  "stud_surname": "Musso",
+  "stud_email": "1812372_mm@large.it"
+ },
+ {
+  "stud_code": "1920709",
+  "stud_name": "Emmanuel",
+  "stud_surname": "Cus",
+  "stud_email": "1920709_ec@large.it"
+ },
+ {
+  "stud_code": "1976236",
+  "stud_name": "Leonardo",
+  "stud_surname": "Zini",
+  "stud_email": "1976236_lz@large.it"
+ },
+ {
+  "stud_code": "1588847",
+  "stud_name": "Yassin",
+  "stud_surname": "Borghi",
+  "stud_email": "1588847_yb@large.it"
+ },
+ {
+  "stud_code": "1640682",
+  "stud_name": "Vittoria",
+  "stud_surname": "Ciavatta",
+  "stud_email": "1640682_vc@large.it"
+ },
+ {
+  "stud_code": "1443629",
+  "stud_name": "Morena",
+  "stud_surname": "Petruzzi",
+  "stud_email": "1443629_mp@large.it"
+ },
+ {
+  "stud_code": "1767039",
+  "stud_name": "Barbara",
+  "stud_surname": "Zhang",
+  "stud_email": "1767039_bz@large.it"
+ },
+ {
+  "stud_code": "1756575",
+  "stud_name": "Maria Grazia",
+  "stud_surname": "Yupanqui Conde",
+  "stud_email": "1756575_my@large.it"
+ },
+ {
+  "stud_code": "1605294",
+  "stud_name": "Fiamma",
+  "stud_surname": "Palagano",
+  "stud_email": "1605294_fp@large.it"
+ },
+ {
+  "stud_code": "1414035",
+  "stud_name": "Mariavittoria",
+  "stud_surname": "Doda",
+  "stud_email": "1414035_md@large.it"
+ },
+ {
+  "stud_code": "1345132",
+  "stud_name": "Amine",
+  "stud_surname": "Palari",
+  "stud_email": "1345132_ap@large.it"
+ },
+ {
+  "stud_code": "1997180",
+  "stud_name": "Chiara Maria",
+  "stud_surname": "Solinas",
+  "stud_email": "1997180_cs@large.it"
+ },
+ {
+  "stud_code": "1796768",
+  "stud_name": "Maia",
+  "stud_surname": "Abbatiello",
+  "stud_email": "1796768_ma@large.it"
+ },
+ {
+  "stud_code": "1861414",
+  "stud_name": "Michelangelo",
+  "stud_surname": "Tenti",
+  "stud_email": "1861414_mt@large.it"
+ },
+ {
+  "stud_code": "1843223",
+  "stud_name": "Mattias",
+  "stud_surname": "Scarano",
+  "stud_email": "1843223_ms@large.it"
+ },
+ {
+  "stud_code": "1757898",
+  "stud_name": "Amalia",
+  "stud_surname": "Sciortino",
+  "stud_email": "1757898_as@large.it"
+ },
+ {
+  "stud_code": "1959619",
+  "stud_name": "Jessica",
+  "stud_surname": "Zannetti",
+  "stud_email": "1959619_jz@large.it"
+ },
+ {
+  "stud_code": "1900258",
+  "stud_name": "Karim",
+  "stud_surname": "Aldobrandi",
+  "stud_email": "1900258_ka@large.it"
+ },
+ {
+  "stud_code": "1566347",
+  "stud_name": "Lorenza",
+  "stud_surname": "Cavallucci",
+  "stud_email": "1566347_lc@large.it"
+ },
+ {
+  "stud_code": "1485640",
+  "stud_name": "Oscar",
+  "stud_surname": "Foraboschi",
+  "stud_email": "1485640_of@large.it"
+ },
+ {
+  "stud_code": "1632376",
+  "stud_name": "Raoul",
+  "stud_surname": "Desideri",
+  "stud_email": "1632376_rd@large.it"
+ },
+ {
+  "stud_code": "1663409",
+  "stud_name": "Samir",
+  "stud_surname": "Cerrata",
+  "stud_email": "1663409_sc@large.it"
+ },
+ {
+  "stud_code": "1372731",
+  "stud_name": "Zaira",
+  "stud_surname": "Arvidsson",
+  "stud_email": "1372731_za@large.it"
+ },
+ {
+  "stud_code": "1799572",
+  "stud_name": "Mariagrazia",
+  "stud_surname": "Prunecchi",
+  "stud_email": "1799572_mp@large.it"
+ },
+ {
+  "stud_code": "1326520",
+  "stud_name": "Christian",
+  "stud_surname": "Bastiani",
+  "stud_email": "1326520_cb@large.it"
+ },
+ {
+  "stud_code": "1303725",
+  "stud_name": "Jonathan",
+  "stud_surname": "Granata",
+  "stud_email": "1303725_jg@large.it"
+ },
+ {
+  "stud_code": "1235040",
+  "stud_name": "Giacomo",
+  "stud_surname": "Tommasini",
+  "stud_email": "1235040_gt@large.it"
+ },
+ {
+  "stud_code": "1849358",
+  "stud_name": "Axel",
+  "stud_surname": "Campagni",
+  "stud_email": "1849358_ac@large.it"
+ },
+ {
+  "stud_code": "1940380",
+  "stud_name": "Marianna",
+  "stud_surname": "Di Beo",
+  "stud_email": "1940380_md@large.it"
+ },
+ {
+  "stud_code": "1509915",
+  "stud_name": "Basma",
+  "stud_surname": "Cuzzola",
+  "stud_email": "1509915_bc@large.it"
+ },
+ {
+  "stud_code": "1536756",
+  "stud_name": "Cesare",
+  "stud_surname": "Kasumov",
+  "stud_email": "1536756_ck@large.it"
+ },
+ {
+  "stud_code": "1515343",
+  "stud_name": "Alvin",
+  "stud_surname": "Tartagli",
+  "stud_email": "1515343_at@large.it"
+ },
+ {
+  "stud_code": "1574189",
+  "stud_name": "Tessa",
+  "stud_surname": "Torrisi",
+  "stud_email": "1574189_tt@large.it"
+ },
+ {
+  "stud_code": "1564146",
+  "stud_name": "Malika",
+  "stud_surname": "Agrati",
+  "stud_email": "1564146_ma@large.it"
+ },
+ {
+  "stud_code": "1822921",
+  "stud_name": "Isacco",
+  "stud_surname": "Manfrida",
+  "stud_email": "1822921_im@large.it"
+ },
+ {
+  "stud_code": "1496926",
+  "stud_name": "Mariarosaria",
+  "stud_surname": "Mafara",
+  "stud_email": "1496926_mm@large.it"
+ },
+ {
+  "stud_code": "1863275",
+  "stud_name": "Astrid",
+  "stud_surname": "Basile",
+  "stud_email": "1863275_ab@large.it"
+ },
+ {
+  "stud_code": "1430461",
+  "stud_name": "Francesca",
+  "stud_surname": "Drigani",
+  "stud_email": "1430461_fd@large.it"
+ },
+ {
+  "stud_code": "1280762",
+  "stud_name": "Ilyas",
+  "stud_surname": "Kosturi",
+  "stud_email": "1280762_ik@large.it"
+ },
+ {
+  "stud_code": "1263677",
+  "stud_name": "Myriam",
+  "stud_surname": "Damiani",
+  "stud_email": "1263677_md@large.it"
+ },
+ {
+  "stud_code": "1499398",
+  "stud_name": "Mariarosaria",
+  "stud_surname": "Federico",
+  "stud_email": "1499398_mf@large.it"
+ },
+ {
+  "stud_code": "1571440",
+  "stud_name": "Malak",
+  "stud_surname": "Bargi",
+  "stud_email": "1571440_mb@large.it"
+ },
+ {
+  "stud_code": "1504947",
+  "stud_name": "Yassin",
+  "stud_surname": "Soncini",
+  "stud_email": "1504947_ys@large.it"
+ },
+ {
+  "stud_code": "1567501",
+  "stud_name": "Elena Sofia",
+  "stud_surname": "Scanu",
+  "stud_email": "1567501_es@large.it"
+ },
+ {
+  "stud_code": "1457066",
+  "stud_name": "Robert",
+  "stud_surname": "Alberti",
+  "stud_email": "1457066_ra@large.it"
+ },
+ {
+  "stud_code": "1734283",
+  "stud_name": "Gianmarco",
+  "stud_surname": "Pascoli",
+  "stud_email": "1734283_gp@large.it"
+ },
+ {
+  "stud_code": "1470084",
+  "stud_name": "Anastasia",
+  "stud_surname": "Sorvillo",
+  "stud_email": "1470084_as@large.it"
+ },
+ {
+  "stud_code": "1300869",
+  "stud_name": "Rosanna",
+  "stud_surname": "Ciampinelli",
+  "stud_email": "1300869_rc@large.it"
+ },
+ {
+  "stud_code": "1852145",
+  "stud_name": "Mara",
+  "stud_surname": "Rocchigiani",
+  "stud_email": "1852145_mr@large.it"
+ },
+ {
+  "stud_code": "1868602",
+  "stud_name": "Tommaso",
+  "stud_surname": "Paternoster",
+  "stud_email": "1868602_tp@large.it"
+ },
+ {
+  "stud_code": "1636895",
+  "stud_name": "Rayan",
+  "stud_surname": "Schiavi",
+  "stud_email": "1636895_rs@large.it"
+ },
+ {
+  "stud_code": "1970461",
+  "stud_name": "Denise",
+  "stud_surname": "Vallecchi",
+  "stud_email": "1970461_dv@large.it"
+ }
+]

@@ -1,0 +1,758 @@
+[
+ {
+  "exam_code": 341,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1803891",
+  "date": "2017/06/22",
+  "grade": 18
+ },
+ {
+  "exam_code": 342,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1803891",
+  "date": "2018/04/26",
+  "grade": 18
+ },
+ {
+  "exam_code": 343,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1803891",
+  "date": "2020/04/30",
+  "grade": 19
+ },
+ {
+  "exam_code": 344,
+  "course_code": "TIPAPFC0xa0bb4a",
+  "stud_code": "1803891",
+  "date": "2017/09/30",
+  "grade": 22
+ },
+ {
+  "exam_code": 345,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1803891",
+  "date": "2018/10/28",
+  "grade": 25
+ },
+ {
+  "exam_code": 346,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1838026",
+  "date": "2017/04/12",
+  "grade": 26
+ },
+ {
+  "exam_code": 347,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1838026",
+  "date": "2020/12/02",
+  "grade": 22
+ },
+ {
+  "exam_code": 348,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1838026",
+  "date": "2020/03/03",
+  "grade": 23
+ },
+ {
+  "exam_code": 349,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1838026",
+  "date": "2019/04/12",
+  "grade": 24
+ },
+ {
+  "exam_code": 350,
+  "course_code": "MP0x3702b5",
+  "stud_code": "1573913",
+  "date": "2020/03/18",
+  "grade": 18
+ },
+ {
+  "exam_code": 351,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1748932",
+  "date": "2017/06/22",
+  "grade": 24
+ },
+ {
+  "exam_code": 352,
+  "course_code": "TIPAPFC0xa0bb4a",
+  "stud_code": "1748932",
+  "date": "2017/09/30",
+  "grade": 21
+ },
+ {
+  "exam_code": 353,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1748932",
+  "date": "2021/09/12",
+  "grade": 25
+ },
+ {
+  "exam_code": 354,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1748932",
+  "date": "2021/04/10",
+  "grade": 31
+ },
+ {
+  "exam_code": 355,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1748932",
+  "date": "2017/08/20",
+  "grade": 25
+ },
+ {
+  "exam_code": 356,
+  "course_code": "MP0x3702b5",
+  "stud_code": "1748932",
+  "date": "2019/07/28",
+  "grade": 26
+ },
+ {
+  "exam_code": 357,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1748932",
+  "date": "2020/06/12",
+  "grade": 26
+ },
+ {
+  "exam_code": 358,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1264048",
+  "date": "2017/08/20",
+  "grade": 18
+ },
+ {
+  "exam_code": 359,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1264048",
+  "date": "2019/01/11",
+  "grade": 23
+ },
+ {
+  "exam_code": 360,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1264048",
+  "date": "2021/01/19",
+  "grade": 24
+ },
+ {
+  "exam_code": 361,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1264048",
+  "date": "2021/09/12",
+  "grade": 20
+ },
+ {
+  "exam_code": 362,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1264048",
+  "date": "2018/06/03",
+  "grade": 27
+ },
+ {
+  "exam_code": 363,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1264048",
+  "date": "2019/04/12",
+  "grade": 21
+ },
+ {
+  "exam_code": 364,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1264048",
+  "date": "2018/06/25",
+  "grade": 26
+ },
+ {
+  "exam_code": 365,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1932247",
+  "date": "2021/04/08",
+  "grade": 31
+ },
+ {
+  "exam_code": 366,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1932247",
+  "date": "2021/05/26",
+  "grade": 26
+ },
+ {
+  "exam_code": 367,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1932247",
+  "date": "2019/12/08",
+  "grade": 20
+ },
+ {
+  "exam_code": 368,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1932247",
+  "date": "2017/06/13",
+  "grade": 30
+ },
+ {
+  "exam_code": 369,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1932247",
+  "date": "2018/10/28",
+  "grade": 26
+ },
+ {
+  "exam_code": 370,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1882282",
+  "date": "2017/03/16",
+  "grade": 28
+ },
+ {
+  "exam_code": 371,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1882282",
+  "date": "2021/01/21",
+  "grade": 31
+ },
+ {
+  "exam_code": 372,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1882282",
+  "date": "2020/04/30",
+  "grade": 27
+ },
+ {
+  "exam_code": 373,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1882282",
+  "date": "2019/01/11",
+  "grade": 30
+ },
+ {
+  "exam_code": 374,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1882282",
+  "date": "2019/03/13",
+  "grade": 31
+ },
+ {
+  "exam_code": 375,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1675598",
+  "date": "2020/04/11",
+  "grade": 30
+ },
+ {
+  "exam_code": 376,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1675598",
+  "date": "2021/07/19",
+  "grade": 29
+ },
+ {
+  "exam_code": 377,
+  "course_code": "TIPAPFC0xa0bb4a",
+  "stud_code": "1675598",
+  "date": "2017/09/30",
+  "grade": 31
+ },
+ {
+  "exam_code": 378,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1675598",
+  "date": "2019/03/30",
+  "grade": 31
+ },
+ {
+  "exam_code": 379,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1675598",
+  "date": "2017/12/19",
+  "grade": 25
+ },
+ {
+  "exam_code": 380,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1675598",
+  "date": "2021/04/10",
+  "grade": 28
+ },
+ {
+  "exam_code": 381,
+  "course_code": "MP0x3702b5",
+  "stud_code": "1675598",
+  "date": "2018/09/01",
+  "grade": 31
+ },
+ {
+  "exam_code": 382,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1675598",
+  "date": "2019/02/27",
+  "grade": 28
+ },
+ {
+  "exam_code": 383,
+  "course_code": "MP0x3702b5",
+  "stud_code": "1393089",
+  "date": "2021/09/23",
+  "grade": 24
+ },
+ {
+  "exam_code": 384,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1393089",
+  "date": "2020/04/30",
+  "grade": 28
+ },
+ {
+  "exam_code": 385,
+  "course_code": "TIPAPFC0xa0bb4a",
+  "stud_code": "1393089",
+  "date": "2017/12/19",
+  "grade": 27
+ },
+ {
+  "exam_code": 386,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1393089",
+  "date": "2021/03/12",
+  "grade": 25
+ },
+ {
+  "exam_code": 387,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1393089",
+  "date": "2019/03/13",
+  "grade": 18
+ },
+ {
+  "exam_code": 388,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1393089",
+  "date": "2017/04/12",
+  "grade": 18
+ },
+ {
+  "exam_code": 389,
+  "course_code": "MP0x3702b5",
+  "stud_code": "1659373",
+  "date": "2019/07/28",
+  "grade": 31
+ },
+ {
+  "exam_code": 390,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1659373",
+  "date": "2021/07/19",
+  "grade": 29
+ },
+ {
+  "exam_code": 391,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1659373",
+  "date": "2021/01/21",
+  "grade": 31
+ },
+ {
+  "exam_code": 392,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1659373",
+  "date": "2020/08/23",
+  "grade": 31
+ },
+ {
+  "exam_code": 393,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1659373",
+  "date": "2021/06/19",
+  "grade": 22
+ },
+ {
+  "exam_code": 394,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1659373",
+  "date": "2020/02/11",
+  "grade": 28
+ },
+ {
+  "exam_code": 395,
+  "course_code": "TIPAPFC0xa0bb4a",
+  "stud_code": "1659373",
+  "date": "2017/12/19",
+  "grade": 31
+ },
+ {
+  "exam_code": 396,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1659373",
+  "date": "2017/12/25",
+  "grade": 31
+ },
+ {
+  "exam_code": 397,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1324812",
+  "date": "2020/02/10",
+  "grade": 29
+ },
+ {
+  "exam_code": 398,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1324812",
+  "date": "2017/06/22",
+  "grade": 31
+ },
+ {
+  "exam_code": 399,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1324812",
+  "date": "2019/11/17",
+  "grade": 31
+ },
+ {
+  "exam_code": 400,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1324812",
+  "date": "2020/10/20",
+  "grade": 31
+ },
+ {
+  "exam_code": 401,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1324812",
+  "date": "2019/08/27",
+  "grade": 30
+ },
+ {
+  "exam_code": 402,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1358320",
+  "date": "2021/11/26",
+  "grade": 18
+ },
+ {
+  "exam_code": 403,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1388405",
+  "date": "2019/09/15",
+  "grade": 31
+ },
+ {
+  "exam_code": 404,
+  "course_code": "TIPAPFC0xa0bb4a",
+  "stud_code": "1388405",
+  "date": "2018/08/02",
+  "grade": 24
+ },
+ {
+  "exam_code": 405,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1835631",
+  "date": "2019/08/25",
+  "grade": 22
+ },
+ {
+  "exam_code": 406,
+  "course_code": "MP0x3702b5",
+  "stud_code": "1835631",
+  "date": "2021/12/31",
+  "grade": 25
+ },
+ {
+  "exam_code": 407,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1835631",
+  "date": "2017/08/20",
+  "grade": 29
+ },
+ {
+  "exam_code": 408,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1835631",
+  "date": "2020/02/10",
+  "grade": 21
+ },
+ {
+  "exam_code": 409,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1835631",
+  "date": "2017/06/13",
+  "grade": 21
+ },
+ {
+  "exam_code": 410,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1835631",
+  "date": "2021/09/05",
+  "grade": 22
+ },
+ {
+  "exam_code": 411,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1835631",
+  "date": "2019/09/30",
+  "grade": 30
+ },
+ {
+  "exam_code": 412,
+  "course_code": "TIPAPFC0xa0bb4a",
+  "stud_code": "1835631",
+  "date": "2019/09/05",
+  "grade": 19
+ },
+ {
+  "exam_code": 413,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1835631",
+  "date": "2019/03/06",
+  "grade": 27
+ },
+ {
+  "exam_code": 414,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1835631",
+  "date": "2017/09/10",
+  "grade": 27
+ },
+ {
+  "exam_code": 415,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1960544",
+  "date": "2018/01/29",
+  "grade": 18
+ },
+ {
+  "exam_code": 416,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1960544",
+  "date": "2021/04/10",
+  "grade": 18
+ },
+ {
+  "exam_code": 417,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1960544",
+  "date": "2019/01/11",
+  "grade": 22
+ },
+ {
+  "exam_code": 418,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1960544",
+  "date": "2019/08/25",
+  "grade": 19
+ },
+ {
+  "exam_code": 419,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1720010",
+  "date": "2018/11/22",
+  "grade": 20
+ },
+ {
+  "exam_code": 420,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1720010",
+  "date": "2017/09/10",
+  "grade": 30
+ },
+ {
+  "exam_code": 421,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1720010",
+  "date": "2018/02/18",
+  "grade": 28
+ },
+ {
+  "exam_code": 422,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1720010",
+  "date": "2020/06/12",
+  "grade": 27
+ },
+ {
+  "exam_code": 423,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1720010",
+  "date": "2019/03/06",
+  "grade": 31
+ },
+ {
+  "exam_code": 424,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1317123",
+  "date": "2018/04/26",
+  "grade": 20
+ },
+ {
+  "exam_code": 425,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1317123",
+  "date": "2019/03/06",
+  "grade": 23
+ },
+ {
+  "exam_code": 426,
+  "course_code": "MP0x3702b5",
+  "stud_code": "1317123",
+  "date": "2020/01/01",
+  "grade": 27
+ },
+ {
+  "exam_code": 427,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1317123",
+  "date": "2020/12/02",
+  "grade": 29
+ },
+ {
+  "exam_code": 428,
+  "course_code": "TIPAPFC0xa0bb4a",
+  "stud_code": "1317123",
+  "date": "2020/04/01",
+  "grade": 27
+ },
+ {
+  "exam_code": 429,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1317123",
+  "date": "2021/05/26",
+  "grade": 31
+ },
+ {
+  "exam_code": 430,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1410627",
+  "date": "2020/08/23",
+  "grade": 21
+ },
+ {
+  "exam_code": 431,
+  "course_code": "EDLELTECCE0x47b75a",
+  "stud_code": "1410627",
+  "date": "2018/01/15",
+  "grade": 18
+ },
+ {
+  "exam_code": 432,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1410627",
+  "date": "2018/06/03",
+  "grade": 20
+ },
+ {
+  "exam_code": 433,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1410627",
+  "date": "2018/04/26",
+  "grade": 18
+ },
+ {
+  "exam_code": 434,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1410627",
+  "date": "2018/04/22",
+  "grade": 20
+ },
+ {
+  "exam_code": 435,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1410627",
+  "date": "2021/09/13",
+  "grade": 18
+ },
+ {
+  "exam_code": 436,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1410627",
+  "date": "2019/01/11",
+  "grade": 18
+ },
+ {
+  "exam_code": 437,
+  "course_code": "MP0x3702b5",
+  "stud_code": "1410627",
+  "date": "2018/09/01",
+  "grade": 18
+ },
+ {
+  "exam_code": 438,
+  "course_code": "MP0x3702b5",
+  "stud_code": "1940518",
+  "date": "2021/12/31",
+  "grade": 27
+ },
+ {
+  "exam_code": 439,
+  "course_code": "CO0xf9cb10",
+  "stud_code": "1940518",
+  "date": "2021/06/19",
+  "grade": 19
+ },
+ {
+  "exam_code": 440,
+  "course_code": "SOM0x835db8",
+  "stud_code": "1940518",
+  "date": "2017/06/13",
+  "grade": 18
+ },
+ {
+  "exam_code": 441,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1940518",
+  "date": "2021/12/24",
+  "grade": 18
+ },
+ {
+  "exam_code": 442,
+  "course_code": "PPFLC0xde1fa7",
+  "stud_code": "1940518",
+  "date": "2017/03/16",
+  "grade": 23
+ },
+ {
+  "exam_code": 443,
+  "course_code": "TIPAPFC0xa0bb4a",
+  "stud_code": "1940518",
+  "date": "2019/09/05",
+  "grade": 19
+ },
+ {
+  "exam_code": 444,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1940518",
+  "date": "2017/05/24",
+  "grade": 24
+ },
+ {
+  "exam_code": 445,
+  "course_code": "FDMAAMT0xae1fbf",
+  "stud_code": "1273288",
+  "date": "2019/06/28",
+  "grade": 26
+ },
+ {
+  "exam_code": 446,
+  "course_code": "EDIELFAC0x5203a7",
+  "stud_code": "1273288",
+  "date": "2018/01/29",
+  "grade": 22
+ },
+ {
+  "exam_code": 447,
+  "course_code": "MDPPLIL0x797bc3",
+  "stud_code": "1273288",
+  "date": "2020/06/12",
+  "grade": 18
+ },
+ {
+  "exam_code": 448,
+  "course_code": "SNL0xadd7c7",
+  "stud_code": "1273288",
+  "date": "2019/09/30",
+  "grade": 22
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "teach_code": "000",
+  "teach_name": "Matilde",
+  "teach_surname": "Menconi",
+  "teach_email": "menconi@small.it"
+ },
+ {
+  "teach_code": "001",
+  "teach_name": "Elias",
+  "teach_surname": "Vaduva",
+  "teach_email": "vaduva@small.it"
+ },
+ {
+  "teach_code": "002",
+  "teach_name": "Leila",
+  "teach_surname": "Masala",
+  "teach_email": "masala@small.it"
+ },
+ {
+  "teach_code": "003",
+  "teach_name": "Ilary",
+  "teach_surname": "Colombi",
+  "teach_email": "colombi@small.it"
+ }
+]

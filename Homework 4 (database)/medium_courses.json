@@ -1,0 +1,302 @@
+[
+ {
+  "course_code": "SDDC0x39daaf",
+  "course_name": "Storia Del Diritto Canonico",
+  "teach_code": "0010"
+ },
+ {
+  "course_code": "TCASVANI0x928948",
+  "course_name": "Tirocinio Clinico A Scelta Vi Anno - Neurochirurgia Ii",
+  "teach_code": "0011"
+ },
+ {
+  "course_code": "MOCDITIP0xf0e7ab",
+  "course_name": "Management Of Cultural Diversities In The Internationalization Processes",
+  "teach_code": "0012"
+ },
+ {
+  "course_code": "TCASVAU0x8c057f",
+  "course_name": "Tirocinio Clinico A Scelta Vi Anno - Urologia",
+  "teach_code": "0013"
+ },
+ {
+  "course_code": "ENDSML0x66a66d",
+  "course_name": "Elaborazione Numerica Dei Segnali Multimediali Lm",
+  "teach_code": "0014"
+ },
+ {
+  "course_code": "OEEDI0x425be9",
+  "course_name": "Offshore Engineering Equipment Design I.C.",
+  "teach_code": "0015"
+ },
+ {
+  "course_code": "BAM0xb42541",
+  "course_name": "Biochimica Applicata Medica",
+  "teach_code": "0016"
+ },
+ {
+  "course_code": "SOHBM0x4b90f",
+  "course_name": "Survey Of Historic Buildings M",
+  "teach_code": "0017"
+ },
+ {
+  "course_code": "IE0x103511",
+  "course_name": "Internship (6 Ects)",
+  "teach_code": "0018"
+ },
+ {
+  "course_code": "FDV0xfcfde2",
+  "course_name": "Fisica Del Vulcanismo",
+  "teach_code": "0019"
+ },
+ {
+  "course_code": "FM0x73a432",
+  "course_name": "Filologia Musicale (Lm)",
+  "teach_code": "0020"
+ },
+ {
+  "course_code": "IPLSA0xde0a76",
+  "course_name": "Informatica Per Le Scienze Ambientali",
+  "teach_code": "0021"
+ },
+ {
+  "course_code": "LA0x7bce6b",
+  "course_name": "Laboratorio 2 Anno",
+  "teach_code": "0022"
+ },
+ {
+  "course_code": "PI0xf52392",
+  "course_name": "Pedagogia Interculturale",
+  "teach_code": "0023"
+ },
+ {
+  "course_code": "SEADRT0x1f895f",
+  "course_name": "Sicurezza E Analisi Di Rischio T",
+  "teach_code": "0024"
+ },
+ {
+  "course_code": "DF0x474ab",
+  "course_name": "Diritto Finanziario",
+  "teach_code": "0025"
+ },
+ {
+  "course_code": "IAFPFTFE0x26029a",
+  "course_name": "Internship Abroad For Preparation For The Final Examination",
+  "teach_code": "0026"
+ },
+ {
+  "course_code": "QMFDA0x15c8d4",
+  "course_name": "Quantitative Methods For Decision Analysis (1) (Lm)",
+  "teach_code": "0027"
+ },
+ {
+  "course_code": "FDMAAMT0x7bc5df",
+  "course_name": "Fondamenti Di Meccanica Applicata Alle Macchine T-2",
+  "teach_code": "0028"
+ },
+ {
+  "course_code": "MLFCV0x199534",
+  "course_name": "Machine Learning For Computer Vision",
+  "teach_code": "0029"
+ },
+ {
+  "course_code": "TDACIU0xf121aa",
+  "course_name": "Tirocinio Di Area Chirurgica Ii - Urologia",
+  "teach_code": "0000"
+ },
+ {
+  "course_code": "APDOSRM0xd741de",
+  "course_name": "Attività Progettuale Di Ottimizzazione Su Reti M",
+  "teach_code": "0001"
+ },
+ {
+  "course_code": "IAM0x2a8adf",
+  "course_name": "Idraulica Ambientale M",
+  "teach_code": "0002"
+ },
+ {
+  "course_code": "POEI0x6daa09",
+  "course_name": "Politics Of European Institutions",
+  "teach_code": "0003"
+ },
+ {
+  "course_code": "LDS0xd00376",
+  "course_name": "Laboratorio Di Security",
+  "teach_code": "0004"
+ },
+ {
+  "course_code": "EOTBI0x9cff01",
+  "course_name": "Economics Of The Biopharmaceutical Industry",
+  "teach_code": "0005"
+ },
+ {
+  "course_code": "MNM0xd02e9f",
+  "course_name": "Metodi Numerici M",
+  "teach_code": "0006"
+ },
+ {
+  "course_code": "MLLVPAEDIP0xc93964",
+  "course_name": "Medicina Legale, Legislazione Veterinaria, Protezione Animale E Deontologia Ii - Professionalizzante",
+  "teach_code": "0007"
+ },
+ {
+  "course_code": "DC0xb26067",
+  "course_name": "Diritto Costituzionale",
+  "teach_code": "0008"
+ },
+ {
+  "course_code": "RTBEA0xfb6bf5",
+  "course_name": "Relazioni Tra Biodiversita' E Ambiente",
+  "teach_code": "0009"
+ },
+ {
+  "course_code": "LCA0xfaea95",
+  "course_name": "Letteratura Cristiana Antica (1)",
+  "teach_code": "0010"
+ },
+ {
+  "course_code": "NEAA0xc07b7b",
+  "course_name": "Nutrizione E Alimentazione Animale (C.I.)",
+  "teach_code": "0011"
+ },
+ {
+  "course_code": "CSL0x65e28",
+  "course_name": "Cinese Secondo Livello",
+  "teach_code": "0012"
+ },
+ {
+  "course_code": "EDD0x1f540e",
+  "course_name": "Economia Della Disuguaglianza",
+  "teach_code": "0013"
+ },
+ {
+  "course_code": "DEPS0xf53758",
+  "course_name": "Didattica E Pedagogia Speciale",
+  "teach_code": "0014"
+ },
+ {
+  "course_code": "AM0xe8039a",
+  "course_name": "Analisi Matematica 1",
+  "teach_code": "0015"
+ },
+ {
+  "course_code": "RASMM0x7667f0",
+  "course_name": "Radioprotection And Spectrum Management M",
+  "teach_code": "0016"
+ },
+ {
+  "course_code": "LFELI0x4b9b51",
+  "course_name": "Lingua Francese E Laboratorio I",
+  "teach_code": "0017"
+ },
+ {
+  "course_code": "MDSN0x92362",
+  "course_name": "Malattie Del Sistema Nervoso (C.I.)",
+  "teach_code": "0018"
+ },
+ {
+  "course_code": "PDTEDDIIA0xbeedad",
+  "course_name": "Processi Di Trasporto E Dispersione Degli Inquinanti In Atmosfera",
+  "teach_code": "0019"
+ },
+ {
+  "course_code": "SDSEDT0x41769a",
+  "course_name": "Storia Della Scienza E Delle Tecniche",
+  "teach_code": "0020"
+ },
+ {
+  "course_code": "S0x681277",
+  "course_name": "Statistica",
+  "teach_code": "0021"
+ },
+ {
+  "course_code": "TDC0x4003e",
+  "course_name": "Teoria Del Controllo",
+  "teach_code": "0022"
+ },
+ {
+  "course_code": "SDC0xe456f4",
+  "course_name": "Scienze Dell'Area Critica (C.I.)",
+  "teach_code": "0023"
+ },
+ {
+  "course_code": "SNL0xef9966",
+  "course_name": "Sicurezza Nel Lavoro",
+  "teach_code": "0024"
+ },
+ {
+  "course_code": "PPFAC0xdcfd43",
+  "course_name": "Preparazione Prova Finale All'Estero (12 Cfu)",
+  "teach_code": "0025"
+ },
+ {
+  "course_code": "DDPA0x42b19e",
+  "course_name": "Diritto Dei Paesi Asiatici",
+  "teach_code": "0026"
+ },
+ {
+  "course_code": "SONM0x269dba",
+  "course_name": "Science Of Nanostructured Materials",
+  "teach_code": "0027"
+ },
+ {
+  "course_code": "CELE0xc62458",
+  "course_name": "Cultura E Lingua Ebraica 2A",
+  "teach_code": "0028"
+ },
+ {
+  "course_code": "DI0xca41b",
+  "course_name": "Diritto Industriale",
+  "teach_code": "0029"
+ },
+ {
+  "course_code": "CISM0x14cf9e",
+  "course_name": "Chimica Inorganica Superiore M",
+  "teach_code": "0000"
+ },
+ {
+  "course_code": "PBPB0x208d70",
+  "course_name": "Plant Biology, Pharmaceutical Botany",
+  "teach_code": "0001"
+ },
+ {
+  "course_code": "CESC0x85ae95",
+  "course_name": "Cinema E Studi Culturali (Lm)",
+  "teach_code": "0002"
+ },
+ {
+  "course_code": "AM0xa4568e",
+  "course_name": "Analisi Matematica",
+  "teach_code": "0003"
+ },
+ {
+  "course_code": "MSRADFWSMFREDDDEPLD0x3977d",
+  "course_name": "Methods, Sources, Research And Documentation For Women'S Studies - Metodi, Fonti, Ricerca E Documentazione Delle Donne E Per Le Donne",
+  "teach_code": "0004"
+ },
+ {
+  "course_code": "IDLIA0x36858f",
+  "course_name": "Idoneita' Di Lingua Inglese (Corso Avanzato)",
+  "teach_code": "0005"
+ },
+ {
+  "course_code": "GSNAM0x3a8c49",
+  "course_name": "Gastrointestinal System, Nutrition, And Metabolism (I.C.)",
+  "teach_code": "0006"
+ },
+ {
+  "course_code": "TAMAAEC0xbda3a4",
+  "course_name": "Translation And Media Accessibility (Italian And English) (I. C)",
+  "teach_code": "0007"
+ },
+ {
+  "course_code": "LA0xb78d3f",
+  "course_name": "Legislazione Ambientale",
+  "teach_code": "0008"
+ },
+ {
+  "course_code": "LELSI0xa317dd",
+  "course_name": "Lingua E Letteratura Sanscrita I (Lm)",
+  "teach_code": "0009"
+ }
+]

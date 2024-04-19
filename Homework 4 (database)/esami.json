@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "ncorso": "asd",
+    "matricola": "1234567",
+    "data": "2021/01/26",
+    "voto": 28
+  },
+  {
+    "id": 2,
+    "ncorso": "qwerty",
+    "matricola": "1234567",
+    "data": "2021/02/21",
+    "voto": 27
+  },
+  {
+    "id": 3,
+    "ncorso": "asd",
+    "matricola": "1234568",
+    "data": "2021/01/26",
+    "voto": 30
+  },
+  {
+    "id": 4,
+    "ncorso": "zx",
+    "matricola": "1234568",
+    "data": "2021/01/16",
+    "voto": 31
+  },
+  {
+    "id": 5,
+    "ncorso": "zx",
+    "matricola": "1234567",
+    "data": "2021/01/16",
+    "voto": 28
+  },
+  {
+    "id": 6,
+    "ncorso": "zx",
+    "matricola": "1234569",
+    "data": "2021/01/16",
+    "voto": 27
+  },
+  {
+    "id": 7,
+    "ncorso": "qwerty",
+    "matricola": "1234569",
+    "data": "2021/02/21",
+    "voto": 30
+  },
+  {
+    "id": 8,
+    "ncorso": "asd",
+    "matricola": "1234569",
+    "data": "2021/01/26",
+    "voto": 31
+  }
+]

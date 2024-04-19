@@ -1,0 +1,52 @@
+[
+ {
+  "course_code": "EDIELFAC0x5203a7",
+  "course_name": "Esercitazioni Di Ingua E Linguistica Francese 3 - A [Ecriture Composee (A-Z)]",
+  "teach_code": "003"
+ },
+ {
+  "course_code": "EDLELTECCE0x47b75a",
+  "course_name": "Esercitazioni Di Lingua E Linguistica Tedesca 1 - E [Studenti Con Certificazione Esterna]",
+  "teach_code": "000"
+ },
+ {
+  "course_code": "MP0x3702b5",
+  "course_name": "Molecular Phylogenetics",
+  "teach_code": "001"
+ },
+ {
+  "course_code": "FDMAAMT0xae1fbf",
+  "course_name": "Fondamenti Di Meccanica Applicata Alle Macchine T-2",
+  "teach_code": "002"
+ },
+ {
+  "course_code": "SOM0x835db8",
+  "course_name": "Semiotics Of Memory (1) (Lm)",
+  "teach_code": "003"
+ },
+ {
+  "course_code": "PPFLC0xde1fa7",
+  "course_name": "Preparazione Prova Finale Lm (20 Cfu)",
+  "teach_code": "000"
+ },
+ {
+  "course_code": "TIPAPFC0xa0bb4a",
+  "course_name": "Tirocinio In Preparazione Alla Prova Finale (6 Cfu) (Lm)",
+  "teach_code": "001"
+ },
+ {
+  "course_code": "CO0xf9cb10",
+  "course_name": "Chimica Organica",
+  "teach_code": "002"
+ },
+ {
+  "course_code": "SNL0xadd7c7",
+  "course_name": "Sistemi Neurali Lm",
+  "teach_code": "003"
+ },
+ {
+  "course_code": "MDPPLIL0x797bc3",
+  "course_name": "Metodi Di Progetto Per L'Ingegneria Industriale Lm",
+  "teach_code": "000"
+ }
+]

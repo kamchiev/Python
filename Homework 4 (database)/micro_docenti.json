@@ -1,0 +1,26 @@
+[
+  {
+    "codice": "003",
+    "nomed": "Angelo",
+    "cognomed": "Spognardi",
+    "emaild": "spognardi@di.it"
+  },
+  {
+    "codice": "001",
+    "nomed": "Maurizio",
+    "cognomed": "Mancini",
+    "emaild": "mmancini@di.it"
+  },
+  {
+    "codice": "004",
+    "nomed": "Andrea",
+    "cognomed": "Sterbini",
+    "emaild": "sterbini@di.it"
+  },
+  {
+    "codice": "002",
+    "nomed": "Iacopo",
+    "cognomed": "Masi",
+    "emaild": "masi@di.it"
+  }
+]

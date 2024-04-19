@@ -1,0 +1,27 @@
+[
+  {
+    "ncorso": "asd",
+    "nomec": "Analisi Sistemi Digitali",
+    "codice_docente": "002"
+  },
+  {
+    "ncorso": "qwerty",
+    "nomec": "Query wide extended related to yaks",
+    "codice_docente": "003"
+  },
+  {
+    "ncorso": "zx",
+    "nomec": "Zodiac Xtra",
+    "codice_docente": "001"
+  },
+  {
+    "ncorso": "foo",
+    "nomec": "Fundamentals Object Oriented",
+    "codice_docente": "001"
+  },
+  {
+    "ncorso": "bar",
+    "nomec": "Best About Rome",
+    "codice_docente": "004"
+  }
+]

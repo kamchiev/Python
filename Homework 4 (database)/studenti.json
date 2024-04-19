@@ -1,0 +1,20 @@
+[
+  {
+    "matricola": "1234567",
+    "nomes": "Angelo",
+    "cognomes": "Rossi",
+    "emails": "ar@stud.it"
+  },
+  {
+    "matricola": "1234568",
+    "nomes": "Luca",
+    "cognomes": "Rossi",
+    "emails": "lr@stud.it"
+  },
+  {
+    "matricola": "1234569",
+    "nomes": "Serena",
+    "cognomes": "Rossi",
+    "emails": "sr@stud.it"
+  }
+]
