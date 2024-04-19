@@ -1,0 +1,50 @@
+==> I used 2 functions to solve the problem: generate_snake() and legit_move()
+
+==> generate_snake 
+
+- (general) this function return the length of snake and also save the result to out_img
+
+- (1) determined the colors which might be occur in the pictures
+
+- (2) created a dictionary which every key saves an information as a tuple about how the postion of the snake changes whilst moving.
+	for example,if 'E':(0,1), first element shows how row and column changes respectively. In addition, corner points saves four 
+	coordinates that is last two numbers show the coordinates of adjacent points.(later on it helps to determine the whether snakes crosses itself diagonally)
+	example: a b . In that case, if we assume corner point is b, last two points gives coordinates of a and c.
+			c
+- (3) loaded the input image and commmands.After that, I split the commands to make a list of individual commands.
+
+- (4) got the first(in pyhton 0) element of the position as a column and second(in pyhton 1) element as a row 
+
+- (5) got the height and width of the image by measuring length of image and first row of the image respectively
+
+- (6) created a list and put the first position of the image into the list.Then, started the looping over every commands.
+	when I get a direction everytime, I got the values from dictionary (2) and assined to two variables x and y. I added these x and y to row and column (4) respectively
+	so that I can go to right coordinate of the image with respect to the direction. There I also check the new row and column position with legit_move() function in case
+	the new position might be out of the image.
+
+- (7) started with checking the dioganal crossing. I measure the lenth of the direction, if it is 2, continue. I assined last two numbers of corners to i and j (2).
+	So, I checked adjacent points. if they are both green (meaning snake). stop the loop. Here, I used try,except because some adjacent coordinates may be out of the image.
+
+- (8) Then, I started new if statement. If the new coordinate is background(black) and trace(gray), get the first values from the path, assign it to x1 and y1 and then delete
+	this element from the list.After that, I changes that x1 and y1 (which is the last green pixel) of the image to trace, and new postion of the image to green. 
+	I added that last new position (which is green) to path list. Conclusion, here snake moves from one position to other and on the way it changes the color of the path.
+
+- (9) started elif statement, if new coordinate (6) is food (orange), paint that coordinate to green (snake) and add it to path.
+	So, first green in the path list is last green now.(meaning the tail of the snake)
+
+- (10)started else statement. If above conditions are not satisfied, then it is red pixel. So, stop the loop
+
+- (11) save the result to out_img and return the length of path(which includes all the latest coordinates of green points)
+	   
+
+==> legit_move  
+
+- (general) this function gets positions, height and width of the image. if the given position is out of the image, return the new position.
+
+- (a) if the row is larger than height, equal it to 0
+
+- (b) elif the row is less than 0, equal it to last row
+
+- (c) if the column is larger than height, equal it to 0
+
+- (d) elif the column is less than 0, equal it to last column
